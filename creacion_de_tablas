@@ -134,7 +134,7 @@ CREATE EXTERNAL TABLE trabajo4.tabla_particion_estatica
 )
 PARTITIONED BY (mensual STRING)
 STORED AS PARQUET
-LOCATION '/carpeta4/complaints/tabla_particion_estatica';
+LOCATION '/carpeta4/complaints_part_esta/tabla_particion_estatica';
 
 
 
@@ -149,7 +149,7 @@ submitted_via,
 from_unixtime (unix_timestamp(Concat(substring(date_sent_to_company,1,4),SUBSTRING(date_sent_to_company,5,2), SUBSTRING(date_sent_to_company,7,2)), 'yyyyMMdd'), 'yyyy-MM-dd') as date_sent_to_company,
 company_response_to_consumer, 
 timely_response 
-from complaints where date_received like '2012-11-%';
+from trabajo4.complaints where date_received like '2012-11-%';
 
 
 
@@ -172,7 +172,10 @@ CREATE EXTERNAL TABLE trabajo4.tabla_particion_dinamica
 )
 PARTITIONED BY (date_received STRING)
 STORED AS PARQUET
-LOCATION '/carpeta4/complaints/tabla_particion_dinamica';
+LOCATION '/carpeta4/complaints_part_dina/tabla_particion_dinamica';
+
+
+set hive.exec.dynamic.partition.mode=nonstrict;
 
 
 insert into trabajo4.tabla_particion_dinamica partition(date_received)
@@ -186,7 +189,7 @@ from_unixtime (unix_timestamp(Concat(substring(date_sent_to_company,1,4),SUBSTRI
 company_response_to_consumer, 
 timely_response,
 from_unixtime (unix_timestamp(Concat(substring(date_received,1,4),SUBSTRING(date_received,5,2), SUBSTRING(date_received,7,2)), 'yyyyMMdd'), 'yyyy-MM-dd') as date_received
-from complaints where date_received like '2012-0%';
+from trabajo4.complaints where date_received like '2012-0%';
 
 
 ****************************************
@@ -205,7 +208,7 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '|'
 COLLECTION ITEMS TERMINATED BY ','
 MAP KEYS TERMINATED BY ':'
-LOCATION '/carpeta4/company/tabla_bucketing';
+LOCATION '/carpeta4/company_buck/tabla_bucketing';
 
 
 
