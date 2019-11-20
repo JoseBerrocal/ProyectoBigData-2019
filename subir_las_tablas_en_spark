@@ -1,0 +1,145 @@
+subir las tablas en spark
+
+
+spark-shell
+
+
+import org.apache.spark.sql.types._
+
+
+hiveContext.sql("set spark.sql.parquet.compression.codec=SNAPPY")
+hiveContext.sql("create table MY_TABLE stored as parquet as select * from ANOTHER_TABLE")
+val rs = hiveContext.sql("select * from MY_TABLE limit 5")
+
+
+trabajo4.issues
+trabajo4.company
+trabajo4.state
+trabajo4.complaints
+trabajo4.tabla_particion_estatica
+
+
+
+trabajo4.company
+
+import sqlContext.implicits._
+export SPARK_MAJOR_VERSION=2
+
+
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+import org.apache.spark.sql.SQLContext._
+sqlContext.sql("show tables").show()
+
+
+import org.apache.spark.sql.SQLContext._
+
+
+scala> import org.apache.spark.sql.hive.HiveContext
+import org.apache.spark.sql.hive.HiveContext
+
+scala>
+
+import org.apache.spark.sql.hive.HiveContext
+val hc = new org.apache.spark.sql.hive.HiveContext(sc)
+val df_company = hc.sql("select * from trabajo4.company limit 5")
+
+df_company.show() 
+df_company.printSchema()
+
+
+hiveContext.sql("set spark.sql.parquet.compression.codec=SNAPPY")
+hiveContext.sql("create table company stored as parquet as select * from trabajo4.company")
+val df_company = hiveContext.sql("select * from company limit 5")
+
+
+
+val df_company = hiveObj.sql("select * from trabajo4.company").collect()
+
+
+df_company.collect() 
+df_company.show() 
+df_company.printSchema() 
+
+
+
+val df_prueba = spark.sql("SELECT * FROM trabajo4.company")
+val df_schema = df_prueba.schema
+df_prueba.collect() 
+df_prueba.schema
+df_prueba.columns
+df_prueba.dtypes
+
+val df_prueba_2 = sqlContext.table(trabajo4.company)
+df_prueba_2.printSchema
+
+
+
+spark.sql("""SELECT *, (DEST_COUNTRY_NAME = ORIGIN_COUNTRY_NAME) as withinCountry FROM dfTable LIMIT 2""").show()
+
+
+spark.sql(SELECT * FROM trabajo4.company).show()
+
+spark.sql(SELECT * FROM trabajo4.company).describe()
+
+
+spark.sql("""SELECT * from trabajo4.state""").show()
+
+spark.sql("""SELECT * from trabajo4.issues""").show()
+
+spark.sql("""SELECT * from trabajo4.complaints""").show()   error
+
+spark.sql("""SELECT * from trabajo4.company""").show()    error
+
+
+trabajo4.issues
+trabajo4.company
+trabajo4.state
+trabajo4.complaints
+
+hive> set mapred.input.dir.recursive=true;
+hive> set hive.mapred.supports.subdirectories=true;
+
+set hive.input.dir.recursive=true;
+set hive.mapred.supports.subdirectories=true;
+set hive.supports.subdirectories=true;
+set mapred.input.dir.recursive=true;
+
+set hive.input.dir.recursive=true;
+set hive.mapred.supports.subdirectories=true;
+set hive.supports.subdirectories=true;
+set mapreduce.input.fileinputformat.input.dir.recursive=true;
+
+
+
+
+spark.sql("""SELECT * from trabajo4.complaints""").collect().foreach(println)
+
+hive.mapred.supports.subdirectories=true
+mapred.input.dir.recursive=true
+
+
+
+
+
+
+set spark.sql.hive.convertMetastoreParquet=false
+set spark.sql.parquet.writeLegacyFormat true
+set spark.mapreduce.input.fileinputformat.input.dir.recursive true
+set spark.hive.mapred.supports.subdirectories true
+set spark.mapred.input.dir.recursive true
+set spark.hadoop.mapreduce.input.fileinputformat.input.dir.recursive true
+set spark.sql.crossJoin.enabled true
+
+spark.sql.hive.convertMetastoreParquet=false
+
+
+
+SET mapred.input.dir.recursive=true;
+SET hive.mapred.supports.subdirectories=true;
+
+
+
+
+
+spark.sql("""refresh metadata trabajo4.company""")
+aquevedos91@gmail.com
