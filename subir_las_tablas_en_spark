@@ -49,3 +49,9 @@ df_tablon.printSchema()
 
 
 
+df_tablon.write.format("parquet").save("/carpeta4/tablon/")
+
+
+df_tablon.createOrReplaceTempView("tablon");
+
+spark.sql("create table if not exists trabajo4.tablon as select * from tablon");

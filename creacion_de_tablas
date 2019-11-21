@@ -106,13 +106,23 @@ tblproperties("skip.header.line.count" = "1");
 
 **********************
 
-hdfs dfs -put state.csv /carpeta4/state/
-hdfs dfs -put company.csv /carpeta4/company/
-hdfs dfs -put issues.csv /carpeta4/issues/
-hdfs dfs -put complaints.csv /carpeta4/complaints/
+#PRIMERO LO COLOCAMOS EN EL DATALAKE
 
 
+hdfs dfs -mkdir /todaladata/
 
+hdfs dfs -put state.csv /todaladata/
+hdfs dfs -put company.csv /todaladata/
+hdfs dfs -put issues.csv /todaladata/
+hdfs dfs -put complaints.csv /todaladata/
+
+
+# DATALAKE NIVEL 2
+
+hdfs dfs -cp /todaladata/state.csv /carpeta4/state/
+hdfs dfs -cp /todaladata/company.csv /carpeta4/company/
+hdfs dfs -cp /todaladata/issues.csv /carpeta4/issues/
+hdfs dfs -cp /todaladata/complaints.csv /carpeta4/complaints/
 
 
 ***********************
