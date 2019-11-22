@@ -58,3 +58,38 @@ root
 
 
 scala>
+
+
+
+val df_tablon_udf_post = df_tablon_udf.withColumn("upper", upperUDF('issues))
+
+df_tablon_udf_post.createOrReplaceTempView("tablon_udf");
+
+spark.sql("create table if not exists trabajo4.tablon_udf as select * from tablon_udf");
+
+df_tablon_udf_post.write.format("parquet").save("/carpeta4/tablon_udf/")
+
+scala> spark.sql("""SELECT * from trabajo4.tablon_udf""").show(1)
++-------------+--------------+------------+-----+-------------------------+-------------+--------------------+----------------------------+---------------+--------------+
+|date_received|        issues|company_name|state|consumer_consent_provided|submitted_via|date_sent_to_company|company_response_to_consumer|timely_response|         upper|
++-------------+--------------+------------+-----+-------------------------+-------------+--------------------+----------------------------+---------------+--------------+
+|   2013-05-23|Payoff process|    Citibank|   IL|                      N-A|          Web|          2013-05-23|        Closed with expla...|      VERDADERO|PAYOFF PROCESS|
++-------------+--------------+------------+-----+-------------------------+-------------+--------------------+----------------------------+---------------+--------------+
+only showing top 1 row
+
+
+scala> spark.sql("""SELECT * from trabajo4.tablon_udf""").printSchema()
+root
+ |-- date_received: date (nullable = true)
+ |-- issues: string (nullable = true)
+ |-- company_name: string (nullable = true)
+ |-- state: string (nullable = true)
+ |-- consumer_consent_provided: string (nullable = true)
+ |-- submitted_via: string (nullable = true)
+ |-- date_sent_to_company: date (nullable = true)
+ |-- company_response_to_consumer: string (nullable = true)
+ |-- timely_response: string (nullable = true)
+ |-- upper: string (nullable = true)
+
+
+scala>
