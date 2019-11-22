@@ -1,0 +1,991 @@
+date_received,id_issue,id_company,id_state,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response
+2013-07-29,ID_ISS_08,ID_COM_02,ID_ST_35,N-A,Referral,2013-07-30,Closed with explanation,VERDADERO
+2016-02-12,ID_ISS_07,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-02-12,Closed with explanation,VERDADERO
+2016-02-08,ID_ISS_21,ID_COM_02,ID_ST_03,Consent provided,Web,2016-02-08,Closed with monetary relief,VERDADERO
+2013-11-13,ID_ISS_11,ID_COM_02,ID_ST_08,N-A,Phone,2013-11-20,Closed with explanation,VERDADERO
+2016-02-12,ID_ISS_11,ID_COM_02,ID_ST_14,Consent provided,Web,2016-02-12,Closed with explanation,VERDADERO
+2016-02-12,ID_ISS_08,ID_COM_02,ID_ST_49,Consent provided,Web,2016-02-12,Closed with monetary relief,VERDADERO
+2016-02-17,ID_ISS_22,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-02-17,Closed with monetary relief,VERDADERO
+2016-02-17,ID_ISS_02,ID_COM_02,ID_ST_45,Consent provided,Web,2016-02-17,Closed with explanation,VERDADERO
+2016-02-12,ID_ISS_21,ID_COM_02,ID_ST_20,Consent provided,Web,2016-02-12,Closed with explanation,VERDADERO
+2016-02-09,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Postal mail,2016-02-11,Closed with explanation,VERDADERO
+2016-02-12,ID_ISS_23,ID_COM_02,ID_ST_03,Consent provided,Web,2016-02-12,Closed with non-monetary relief,VERDADERO
+2016-02-12,ID_ISS_23,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-02-12,Closed with explanation,VERDADERO
+2016-02-09,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Postal mail,2016-02-09,Closed with explanation,VERDADERO
+2016-02-09,ID_ISS_11,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-02-10,Closed with non-monetary relief,VERDADERO
+2016-02-12,ID_ISS_26,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-02-12,Closed with explanation,VERDADERO
+2013-11-25,ID_ISS_28,ID_COM_02,ID_ST_38,N-A,Web,2013-11-26,Closed with explanation,VERDADERO
+2016-02-26,ID_ISS_00,ID_COM_02,ID_ST_37,Consent provided,Web,2016-02-26,Closed with explanation,VERDADERO
+2016-03-03,ID_ISS_07,ID_COM_02,ID_ST_34,Consent provided,Web,2016-03-03,Closed with monetary relief,VERDADERO
+2016-02-27,ID_ISS_23,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-02-27,Closed with explanation,VERDADERO
+2016-02-27,ID_ISS_23,ID_COM_02,ID_ST_48,Consent provided,Web,2016-02-27,Closed with non-monetary relief,VERDADERO
+2016-02-27,ID_ISS_07,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-02-27,Closed with explanation,VERDADERO
+2016-02-18,ID_ISS_11,ID_COM_04,ID_ST_03,Consent provided,Web,2016-04-07,Closed with explanation,VERDADERO
+2016-02-27,ID_ISS_19,ID_COM_02,ID_ST_08,Consent provided,Web,2016-02-27,Closed with monetary relief,VERDADERO
+2016-02-23,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Fax,2016-02-25,Closed with explanation,VERDADERO
+2016-02-28,ID_ISS_07,ID_COM_02,ID_ST_31,Consent provided,Web,2016-02-28,Closed with explanation,VERDADERO
+2013-07-02,ID_ISS_07,ID_COM_08,ID_ST_19,N-A,Referral,2013-07-09,Closed with monetary relief,VERDADERO
+2016-02-23,ID_ISS_08,ID_COM_02,ID_ST_27,N-A,Referral,2016-02-29,Closed with explanation,VERDADERO
+2013-10-21,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Web,2013-10-21,Closed with non-monetary relief,VERDADERO
+2016-03-03,ID_ISS_07,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-03-03,Closed with explanation,VERDADERO
+2013-07-25,ID_ISS_16,ID_COM_02,ID_ST_16,N-A,Postal mail,2013-07-26,Closed with non-monetary relief,VERDADERO
+2016-02-23,ID_ISS_31,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-01,Closed with explanation,VERDADERO
+2016-02-29,ID_ISS_08,ID_COM_02,ID_ST_07,Consent not provided,Web,2016-02-29,Closed with monetary relief,VERDADERO
+2016-02-29,ID_ISS_07,ID_COM_02,ID_ST_48,Consent provided,Web,2016-02-29,Closed with explanation,VERDADERO
+2016-02-23,ID_ISS_23,ID_COM_02,ID_ST_35,Consent provided,Web,2016-02-23,Closed with explanation,VERDADERO
+2016-02-24,ID_ISS_16,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-02-24,Closed with explanation,VERDADERO
+2016-02-24,ID_ISS_07,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-02-29,Closed with explanation,VERDADERO
+2016-02-19,ID_ISS_02,ID_COM_02,ID_ST_05,Consent provided,Web,2016-02-19,Closed with explanation,VERDADERO
+2016-02-24,ID_ISS_11,ID_COM_02,ID_ST_08,N-A,Phone,2016-02-26,Closed with explanation,VERDADERO
+2016-02-24,ID_ISS_08,ID_COM_02,ID_ST_35,Other,Web,2016-02-24,Closed with monetary relief,VERDADERO
+2016-02-19,ID_ISS_21,ID_COM_02,ID_ST_38,Consent not provided,Web,2016-02-19,Closed with monetary relief,VERDADERO
+2016-03-09,ID_ISS_22,ID_COM_02,ID_ST_48,Consent not provided,Web,2016-03-09,Closed with monetary relief,VERDADERO
+2016-02-19,ID_ISS_07,ID_COM_02,ID_ST_15,N-A,Postal mail,2016-02-22,Closed with monetary relief,VERDADERO
+2016-03-09,ID_ISS_07,ID_COM_02,ID_ST_43,N-A,Phone,2016-03-10,Closed with non-monetary relief,VERDADERO
+2016-03-04,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Postal mail,2016-03-07,Closed with explanation,VERDADERO
+2016-02-19,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Phone,2016-02-24,Closed with explanation,VERDADERO
+2016-03-04,ID_ISS_18,ID_COM_02,ID_ST_46,Consent not provided,Web,2016-03-08,Closed with monetary relief,VERDADERO
+2016-03-04,ID_ISS_11,ID_COM_02,ID_ST_14,Consent not provided,Web,2016-03-04,Closed with non-monetary relief,VERDADERO
+2016-03-04,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Referral,2016-03-07,Closed with monetary relief,VERDADERO
+2016-02-24,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Postal mail,2016-03-11,Closed with monetary relief,VERDADERO
+2016-03-10,ID_ISS_02,ID_COM_02,ID_ST_06,Consent not provided,Web,2016-03-10,Closed with explanation,VERDADERO
+2016-03-01,ID_ISS_23,ID_COM_02,ID_ST_34,N-A,Referral,2016-03-02,Closed with explanation,VERDADERO
+2016-03-01,ID_ISS_18,ID_COM_02,ID_ST_14,Consent provided,Web,2016-03-01,Closed with monetary relief,VERDADERO
+2016-03-15,ID_ISS_24,ID_COM_02,ID_ST_08,N-A,Phone,2016-03-15,Closed with explanation,VERDADERO
+2016-03-04,ID_ISS_08,ID_COM_02,ID_ST_38,Consent not provided,Web,2016-03-04,Closed with monetary relief,VERDADERO
+2016-02-25,ID_ISS_21,ID_COM_02,ID_ST_08,Consent provided,Web,2016-02-25,Closed with monetary relief,VERDADERO
+2016-02-25,ID_ISS_31,ID_COM_02,ID_ST_27,Consent provided,Web,2016-02-25,Closed with explanation,VERDADERO
+2016-03-18,ID_ISS_11,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-03-18,Closed with explanation,VERDADERO
+2016-03-23,ID_ISS_07,ID_COM_02,ID_ST_22,Consent provided,Web,2016-03-23,Closed with explanation,VERDADERO
+2016-03-01,ID_ISS_24,ID_COM_02,ID_ST_09,Consent provided,Web,2016-03-01,Closed with monetary relief,VERDADERO
+2013-07-17,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Referral,2013-07-19,Closed with monetary relief,VERDADERO
+2016-02-25,ID_ISS_30,ID_COM_02,ID_ST_03,Consent provided,Web,2016-02-25,Closed with explanation,VERDADERO
+2016-03-18,ID_ISS_15,ID_COM_02,ID_ST_27,Consent provided,Web,2016-03-18,Closed with explanation,VERDADERO
+2016-03-05,ID_ISS_02,ID_COM_02,ID_ST_31,Consent provided,Web,2016-03-05,Closed with explanation,VERDADERO
+2016-02-20,ID_ISS_07,ID_COM_02,ID_ST_27,Consent provided,Web,2016-02-20,Closed with monetary relief,VERDADERO
+2016-02-20,ID_ISS_28,ID_COM_02,ID_ST_15,Consent not provided,Web,2016-02-20,Closed with non-monetary relief,VERDADERO
+2013-10-22,ID_ISS_23,ID_COM_02,ID_ST_09,N-A,Postal mail,2013-10-24,Closed with explanation,VERDADERO
+2016-02-20,ID_ISS_23,ID_COM_02,ID_ST_37,Consent not provided,Web,2016-02-20,Closed with explanation,VERDADERO
+2016-03-15,ID_ISS_23,ID_COM_02,ID_ST_31,Consent provided,Web,2016-03-15,Closed with explanation,VERDADERO
+2016-03-06,ID_ISS_07,ID_COM_02,ID_ST_14,Consent provided,Web,2016-03-06,Closed with monetary relief,VERDADERO
+2013-10-22,ID_ISS_18,ID_COM_02,ID_ST_03,N-A,Postal mail,2013-10-24,Closed with explanation,VERDADERO
+2016-03-19,ID_ISS_08,ID_COM_02,ID_ST_34,Consent provided,Web,2016-03-19,Closed with monetary relief,VERDADERO
+2016-03-24,ID_ISS_07,ID_COM_02,ID_ST_49,N-A,Referral,2016-03-28,Closed with monetary relief,VERDADERO
+2013-10-22,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Web,2013-10-29,Closed with explanation,VERDADERO
+2016-03-19,ID_ISS_22,ID_COM_02,ID_ST_24,Consent provided,Web,2016-03-19,Closed with monetary relief,VERDADERO
+2016-03-20,ID_ISS_15,ID_COM_02,ID_ST_19,Consent not provided,Web,2016-03-20,Closed with non-monetary relief,VERDADERO
+2016-03-20,ID_ISS_07,ID_COM_02,ID_ST_04,Consent provided,Web,2016-03-20,Closed with monetary relief,VERDADERO
+2016-03-15,ID_ISS_11,ID_COM_02,ID_ST_04,Consent not provided,Web,2016-03-17,Closed with explanation,VERDADERO
+2013-10-22,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Web,2013-10-22,Closed with monetary relief,VERDADERO
+2016-03-24,ID_ISS_07,ID_COM_02,ID_ST_10,Consent provided,Web,2016-03-24,Closed with explanation,VERDADERO
+2016-03-20,ID_ISS_21,ID_COM_02,ID_ST_20,Consent provided,Web,2016-03-22,Closed with explanation,VERDADERO
+2016-03-21,ID_ISS_24,ID_COM_02,ID_ST_22,Consent not provided,Web,2016-03-21,Closed with monetary relief,VERDADERO
+2016-03-21,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Postal mail,2016-03-22,Closed with explanation,VERDADERO
+2016-03-21,ID_ISS_24,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-21,Closed with explanation,VERDADERO
+2016-03-02,ID_ISS_21,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-03-02,Closed with explanation,VERDADERO
+2016-03-07,ID_ISS_18,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-04-02,Closed with explanation,VERDADERO
+2016-03-03,ID_ISS_24,ID_COM_02,ID_ST_00,Consent provided,Web,2016-03-03,Closed with monetary relief,VERDADERO
+2016-03-16,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Referral,2016-03-18,Closed with explanation,VERDADERO
+2016-03-03,ID_ISS_07,ID_COM_02,ID_ST_46,Consent provided,Web,2016-03-03,Closed with explanation,VERDADERO
+2016-03-07,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Phone,2016-03-08,Closed with monetary relief,VERDADERO
+2016-03-16,ID_ISS_03,ID_COM_02,ID_ST_44,Consent provided,Web,2016-03-28,Closed with monetary relief,VERDADERO
+2016-03-07,ID_ISS_21,ID_COM_02,ID_ST_48,Consent provided,Web,2016-03-07,Closed with monetary relief,VERDADERO
+2016-03-11,ID_ISS_22,ID_COM_02,ID_ST_35,N-A,Referral,2016-03-11,Closed with monetary relief,VERDADERO
+2016-03-16,ID_ISS_07,ID_COM_02,ID_ST_08,Consent provided,Web,2016-03-17,Closed with monetary relief,VERDADERO
+2016-03-21,ID_ISS_23,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-03-21,Closed with explanation,VERDADERO
+2014-09-18,ID_ISS_23,ID_COM_02,ID_ST_46,N-A,Web,2014-09-18,Closed with explanation,VERDADERO
+2016-03-25,ID_ISS_07,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-03-25,Closed with explanation,VERDADERO
+2016-03-25,ID_ISS_07,ID_COM_02,ID_ST_09,Consent not provided,Web,2016-03-25,Closed with monetary relief,VERDADERO
+2016-03-16,ID_ISS_11,ID_COM_02,ID_ST_31,Consent provided,Web,2016-03-22,Closed with explanation,VERDADERO
+2016-03-25,ID_ISS_15,ID_COM_02,ID_ST_08,Consent provided,Web,2016-03-25,Closed with explanation,VERDADERO
+2013-11-01,ID_ISS_02,ID_COM_02,ID_ST_29,N-A,Web,2013-11-01,Closed with explanation,VERDADERO
+2016-03-25,ID_ISS_23,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-03-25,Closed with explanation,VERDADERO
+2016-03-25,ID_ISS_11,ID_COM_02,ID_ST_37,N-A,Referral,2016-03-29,Closed with monetary relief,VERDADERO
+2016-04-05,ID_ISS_23,ID_COM_02,ID_ST_05,Consent not provided,Web,2016-04-05,Closed with explanation,VERDADERO
+2016-03-22,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Referral,2016-03-23,Closed with monetary relief,VERDADERO
+2016-03-08,ID_ISS_07,ID_COM_02,ID_ST_32,Consent not provided,Web,2016-03-08,Closed with explanation,VERDADERO
+2016-03-08,ID_ISS_08,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-08,Closed with monetary relief,VERDADERO
+2016-03-08,ID_ISS_07,ID_COM_02,ID_ST_44,Consent provided,Web,2016-03-08,Closed with explanation,VERDADERO
+2016-04-06,ID_ISS_21,ID_COM_03,ID_ST_32,N-A,Referral,2016-04-07,Closed with explanation,VERDADERO
+2016-03-12,ID_ISS_07,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-03-12,Closed with monetary relief,VERDADERO
+2016-03-12,ID_ISS_00,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-12,Closed with explanation,VERDADERO
+2016-03-08,ID_ISS_18,ID_COM_02,ID_ST_34,N-A,Phone,2016-03-09,Closed with monetary relief,VERDADERO
+2016-03-12,ID_ISS_19,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-03-12,Closed with monetary relief,VERDADERO
+2016-03-08,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Postal mail,2016-03-10,Closed with monetary relief,VERDADERO
+2016-03-13,ID_ISS_23,ID_COM_02,ID_ST_34,Consent provided,Web,2016-03-21,Closed with explanation,VERDADERO
+2016-03-31,ID_ISS_11,ID_COM_02,ID_ST_14,Consent provided,Web,2016-03-31,Closed with explanation,VERDADERO
+2016-03-08,ID_ISS_08,ID_COM_02,ID_ST_44,Consent provided,Web,2016-03-08,Closed with explanation,VERDADERO
+2016-03-14,ID_ISS_18,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-03-14,Closed with monetary relief,VERDADERO
+2016-03-17,ID_ISS_07,ID_COM_02,ID_ST_00,Consent provided,Web,2016-03-17,Closed with monetary relief,VERDADERO
+2016-03-14,ID_ISS_11,ID_COM_02,ID_ST_14,Consent not provided,Web,2016-03-14,Closed with non-monetary relief,VERDADERO
+2016-03-09,ID_ISS_11,ID_COM_02,ID_ST_43,Consent provided,Web,2016-03-09,Closed with explanation,VERDADERO
+2016-03-17,ID_ISS_21,ID_COM_02,ID_ST_23,N-A,Referral,2016-03-21,Closed with explanation,VERDADERO
+2013-11-19,ID_ISS_01,ID_COM_02,ID_ST_44,N-A,Web,2013-11-26,Closed with monetary relief,VERDADERO
+2016-03-09,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Postal mail,2016-03-09,Closed with monetary relief,VERDADERO
+2016-03-22,ID_ISS_07,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-03-24,Closed with explanation,VERDADERO
+2013-11-25,ID_ISS_07,ID_COM_02,ID_ST_07,N-A,Postal mail,2013-11-26,Closed with monetary relief,VERDADERO
+2013-05-21,ID_ISS_26,ID_COM_02,ID_ST_44,N-A,Referral,2013-05-22,Closed with non-monetary relief,VERDADERO
+2016-03-14,ID_ISS_15,ID_COM_02,ID_ST_01,Consent not provided,Web,2016-03-14,Closed with non-monetary relief,VERDADERO
+2016-03-31,ID_ISS_11,ID_COM_02,ID_ST_30,Consent provided,Web,2016-04-04,Closed with explanation,VERDADERO
+2016-03-18,ID_ISS_08,ID_COM_02,ID_ST_09,Consent provided,Web,2016-03-18,Closed with explanation,VERDADERO
+2013-10-22,ID_ISS_26,ID_COM_02,ID_ST_46,N-A,Web,2013-10-22,Closed with monetary relief,VERDADERO
+2016-03-29,ID_ISS_24,ID_COM_02,ID_ST_44,Consent provided,Web,2016-03-29,Closed with monetary relief,VERDADERO
+2016-04-11,ID_ISS_20,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-04-11,Closed with explanation,VERDADERO
+2016-04-11,ID_ISS_23,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-04-11,Closed with monetary relief,VERDADERO
+2016-03-18,ID_ISS_07,ID_COM_02,ID_ST_04,Consent not provided,Web,2016-03-18,Closed with explanation,VERDADERO
+2013-11-19,ID_ISS_15,ID_COM_02,ID_ST_20,N-A,Postal mail,2013-11-20,Closed with non-monetary relief,VERDADERO
+2016-04-06,ID_ISS_23,ID_COM_02,ID_ST_22,Consent provided,Web,2016-04-08,Closed with explanation,VERDADERO
+2016-04-12,ID_ISS_00,ID_COM_02,ID_ST_08,Consent provided,Web,2016-04-12,Closed with non-monetary relief,VERDADERO
+2016-04-12,ID_ISS_00,ID_COM_02,ID_ST_27,Consent provided,Web,2016-04-12,Closed with explanation,VERDADERO
+2016-04-12,ID_ISS_14,ID_COM_02,ID_ST_22,Consent provided,Web,2016-04-12,Closed with explanation,VERDADERO
+2013-07-04,ID_ISS_24,ID_COM_02,ID_ST_31,N-A,Web,2013-07-04,Closed with monetary relief,VERDADERO
+2016-04-07,ID_ISS_07,ID_COM_02,ID_ST_38,Consent provided,Web,2016-04-07,Closed with monetary relief,VERDADERO
+2013-06-17,ID_ISS_23,ID_COM_02,ID_ST_27,N-A,Referral,2013-06-18,Closed with monetary relief,VERDADERO
+2016-04-02,ID_ISS_14,ID_COM_02,ID_ST_38,Consent provided,Web,2016-04-02,Closed with monetary relief,VERDADERO
+2017-02-08,ID_ISS_00,ID_COM_02,ID_ST_37,Consent not provided,Web,2017-02-08,Closed with explanation,VERDADERO
+2016-04-03,ID_ISS_23,ID_COM_02,ID_ST_34,Consent not provided,Web,2016-04-03,Closed with explanation,VERDADERO
+2016-04-12,ID_ISS_08,ID_COM_02,ID_ST_02,Consent provided,Web,2016-04-12,Closed with explanation,VERDADERO
+2016-04-12,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2016-04-14,Closed with explanation,VERDADERO
+2016-04-12,ID_ISS_00,ID_COM_02,ID_ST_19,Consent provided,Web,2016-04-12,Closed with explanation,VERDADERO
+2016-04-07,ID_ISS_30,ID_COM_02,ID_ST_49,Consent not provided,Web,2016-04-07,Closed with monetary relief,VERDADERO
+2017-01-24,ID_ISS_07,ID_COM_02,ID_ST_03,Consent provided,Web,2017-01-27,Closed with explanation,VERDADERO
+2017-01-25,ID_ISS_24,ID_COM_02,ID_ST_36,Consent provided,Web,2017-01-25,Closed with explanation,VERDADERO
+2016-11-23,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Postal mail,2016-12-04,Closed with monetary relief,VERDADERO
+2016-04-04,ID_ISS_07,ID_COM_02,ID_ST_08,Consent provided,Web,2016-04-04,Closed with monetary relief,VERDADERO
+2016-04-18,ID_ISS_21,ID_COM_03,ID_ST_27,Consent provided,Web,2016-04-20,Closed with explanation,VERDADERO
+2016-04-04,ID_ISS_29,ID_COM_02,ID_ST_32,Consent provided,Web,2016-04-04,Closed with explanation,VERDADERO
+2016-04-18,ID_ISS_07,ID_COM_02,ID_ST_05,Consent provided,Web,2016-04-20,Closed with explanation,VERDADERO
+2016-12-05,ID_ISS_31,ID_COM_08,ID_ST_44,Consent provided,Web,2016-12-05,Closed with explanation,VERDADERO
+2016-04-08,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Phone,2016-04-11,Closed with non-monetary relief,VERDADERO
+2013-08-13,ID_ISS_18,ID_COM_07,ID_ST_38,N-A,Postal mail,2013-08-15,Closed with explanation,VERDADERO
+2016-04-04,ID_ISS_27,ID_COM_02,ID_ST_20,Consent not provided,Web,2016-04-04,Closed with non-monetary relief,VERDADERO
+2013-11-25,ID_ISS_15,ID_COM_02,ID_ST_08,N-A,Postal mail,2013-11-25,Closed with explanation,VERDADERO
+2016-04-13,ID_ISS_21,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-04-13,Closed with monetary relief,VERDADERO
+2016-04-23,ID_ISS_22,ID_COM_02,ID_ST_03,Consent provided,Web,2016-04-23,Closed with monetary relief,VERDADERO
+2017-02-09,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Postal mail,2017-02-13,Closed with explanation,VERDADERO
+2016-04-08,ID_ISS_07,ID_COM_02,ID_ST_04,Consent provided,Web,2016-04-08,Closed with monetary relief,VERDADERO
+2016-12-01,ID_ISS_31,ID_COM_02,ID_ST_03,Consent provided,Web,2016-12-01,Closed with monetary relief,VERDADERO
+2016-12-13,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Postal mail,2016-12-14,Closed with monetary relief,VERDADERO
+2016-04-09,ID_ISS_07,ID_COM_02,ID_ST_27,Consent provided,Web,2016-04-09,Closed with explanation,VERDADERO
+2016-04-09,ID_ISS_23,ID_COM_03,ID_ST_32,Consent not provided,Web,2016-04-11,Closed with explanation,VERDADERO
+2016-04-14,ID_ISS_07,ID_COM_02,ID_ST_44,N-A,Referral,2016-04-15,Closed with explanation,VERDADERO
+2016-04-11,ID_ISS_07,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-11,Closed with explanation,VERDADERO
+2016-04-11,ID_ISS_11,ID_COM_02,ID_ST_31,N-A,Referral,2016-04-12,Closed with explanation,VERDADERO
+2016-04-15,ID_ISS_15,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-04-15,Closed with explanation,VERDADERO
+2016-05-04,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Postal mail,2016-05-05,Closed with explanation,VERDADERO
+2016-04-11,ID_ISS_15,ID_COM_02,ID_ST_08,N-A,Postal mail,2016-04-13,Closed with explanation,VERDADERO
+2016-12-08,ID_ISS_23,ID_COM_02,ID_ST_20,Consent provided,Web,2016-12-08,Closed with monetary relief,VERDADERO
+2017-02-08,ID_ISS_07,ID_COM_02,ID_ST_21,N-A,Referral,2017-02-10,Closed with explanation,VERDADERO
+2016-05-04,ID_ISS_23,ID_COM_02,ID_ST_49,Consent not provided,Web,2016-05-04,Closed with explanation,VERDADERO
+2016-12-21,ID_ISS_18,ID_COM_07,ID_ST_35,Consent not provided,Web,2016-12-21,Closed with explanation,VERDADERO
+2016-11-22,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Fax,2016-12-08,Closed with monetary relief,VERDADERO
+2016-12-06,ID_ISS_23,ID_COM_02,ID_ST_41,Consent provided,Web,2016-12-06,Closed with explanation,VERDADERO
+2017-02-09,ID_ISS_07,ID_COM_02,ID_ST_07,Consent not provided,Web,2017-02-09,Closed with explanation,VERDADERO
+2016-04-26,ID_ISS_21,ID_COM_02,ID_ST_46,Consent provided,Web,2016-04-26,Closed with explanation,VERDADERO
+2013-10-28,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2013-10-28,Closed with monetary relief,VERDADERO
+2016-04-21,ID_ISS_08,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-04-24,Closed with explanation,VERDADERO
+2016-12-08,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Referral,2016-12-09,Closed with monetary relief,VERDADERO
+2017-01-31,ID_ISS_30,ID_COM_02,ID_ST_35,Consent provided,Web,2017-01-31,Closed with explanation,VERDADERO
+2017-02-08,ID_ISS_30,ID_COM_02,ID_ST_34,N-A,Phone,2017-02-13,Closed with explanation,VERDADERO
+2016-12-15,ID_ISS_02,ID_COM_02,ID_ST_35,N-A,Fax,2016-12-15,Closed with explanation,VERDADERO
+2017-02-06,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Referral,2017-02-09,Closed with monetary relief,VERDADERO
+2016-12-08,ID_ISS_14,ID_COM_02,ID_ST_46,Consent provided,Web,2016-12-08,Closed with monetary relief,VERDADERO
+2013-06-18,ID_ISS_00,ID_COM_02,ID_ST_41,N-A,Web,2013-06-19,Closed with explanation,VERDADERO
+2016-05-23,ID_ISS_07,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-05-23,Closed with monetary relief,VERDADERO
+2016-05-23,ID_ISS_23,ID_COM_02,ID_ST_44,Consent provided,Web,2016-05-23,Closed with explanation,VERDADERO
+2016-05-17,ID_ISS_18,ID_COM_02,ID_ST_04,Consent not provided,Web,2016-05-17,Closed with explanation,VERDADERO
+2017-01-27,ID_ISS_00,ID_COM_02,ID_ST_34,Consent provided,Web,2017-01-27,Closed with monetary relief,VERDADERO
+2017-01-31,ID_ISS_30,ID_COM_02,ID_ST_35,Consent provided,Web,2017-01-31,Closed with explanation,VERDADERO
+2016-12-08,ID_ISS_15,ID_COM_02,ID_ST_49,Consent provided,Web,2016-12-08,Closed with non-monetary relief,VERDADERO
+2016-12-13,ID_ISS_28,ID_COM_02,ID_ST_44,Consent provided,Web,2016-12-13,Closed with non-monetary relief,VERDADERO
+2017-01-25,ID_ISS_07,ID_COM_02,ID_ST_27,Consent provided,Web,2017-01-25,Closed with monetary relief,VERDADERO
+2016-06-08,ID_ISS_23,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-06-08,Closed with explanation,VERDADERO
+2016-11-27,ID_ISS_08,ID_COM_02,ID_ST_35,Consent provided,Web,2016-11-27,Closed with explanation,VERDADERO
+2016-10-21,ID_ISS_30,ID_COM_02,ID_ST_13,Consent not provided,Web,2016-10-21,Closed with explanation,VERDADERO
+2016-11-29,ID_ISS_16,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-11-29,Closed with explanation,VERDADERO
+2017-01-31,ID_ISS_08,ID_COM_02,ID_ST_49,Consent provided,Web,2017-01-31,Closed with explanation,VERDADERO
+2016-10-27,ID_ISS_23,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-10-27,Closed with explanation,VERDADERO
+2017-01-31,ID_ISS_30,ID_COM_02,ID_ST_35,Consent provided,Web,2017-01-31,Closed with explanation,VERDADERO
+2016-12-09,ID_ISS_07,ID_COM_02,ID_ST_51,N-A,Phone,2016-12-09,Closed with explanation,VERDADERO
+2016-12-08,ID_ISS_21,ID_COM_02,ID_ST_33,Consent not provided,Web,2016-12-08,Closed with explanation,VERDADERO
+2016-05-29,ID_ISS_18,ID_COM_02,ID_ST_33,Consent provided,Web,2016-05-29,Closed with explanation,VERDADERO
+2017-02-09,ID_ISS_15,ID_COM_02,ID_ST_48,Consent not provided,Web,2017-02-09,Closed with explanation,VERDADERO
+2016-12-07,ID_ISS_02,ID_COM_02,ID_ST_15,Consent not provided,Web,2016-12-07,Closed with explanation,VERDADERO
+2013-11-13,ID_ISS_23,ID_COM_02,ID_ST_27,N-A,Web,2013-11-14,Closed with explanation,VERDADERO
+2016-12-09,ID_ISS_23,ID_COM_02,ID_ST_03,Consent provided,Web,2016-12-13,Closed with monetary relief,VERDADERO
+2017-01-31,ID_ISS_15,ID_COM_02,ID_ST_03,Consent provided,Web,2017-01-31,Closed with explanation,VERDADERO
+2016-12-07,ID_ISS_19,ID_COM_02,ID_ST_34,N-A,Referral,2016-12-09,Closed with explanation,VERDADERO
+2016-05-18,ID_ISS_28,ID_COM_02,ID_ST_09,Consent provided,Web,2016-05-18,Closed with explanation,VERDADERO
+2017-02-03,ID_ISS_07,ID_COM_02,ID_ST_02,N-A,Phone,2017-02-03,Closed with explanation,VERDADERO
+2017-02-03,ID_ISS_07,ID_COM_00,ID_ST_14,N-A,Referral,2017-02-07,Closed with monetary relief,VERDADERO
+2017-02-05,ID_ISS_18,ID_COM_02,ID_ST_03,Consent not provided,Web,2017-02-05,Closed with explanation,VERDADERO
+2016-10-23,ID_ISS_18,ID_COM_02,ID_ST_38,Consent not provided,Web,2016-10-23,Closed with explanation,VERDADERO
+2016-05-31,ID_ISS_23,ID_COM_02,ID_ST_45,Consent provided,Web,2016-05-31,Closed with explanation,VERDADERO
+2017-02-07,ID_ISS_07,ID_COM_02,ID_ST_15,Consent not provided,Web,2017-02-10,Closed with explanation,VERDADERO
+2016-12-10,ID_ISS_01,ID_COM_02,ID_ST_27,Consent not provided,Web,2016-12-10,Closed with non-monetary relief,VERDADERO
+2016-06-01,ID_ISS_18,ID_COM_02,ID_ST_08,Consent provided,Web,2016-06-01,Closed with non-monetary relief,VERDADERO
+2016-12-09,ID_ISS_24,ID_COM_02,ID_ST_03,Consent provided,Web,2016-12-09,Closed with monetary relief,VERDADERO
+2016-12-14,ID_ISS_23,ID_COM_02,ID_ST_03,Consent provided,Web,2016-12-14,Closed with explanation,VERDADERO
+2017-02-03,ID_ISS_07,ID_COM_02,ID_ST_14,Consent not provided,Web,2017-02-03,Closed with explanation,VERDADERO
+2016-12-12,ID_ISS_21,ID_COM_02,ID_ST_49,Consent not provided,Web,2016-12-12,Closed with explanation,VERDADERO
+2016-06-12,ID_ISS_08,ID_COM_02,ID_ST_31,Consent provided,Web,2016-06-12,Closed with explanation,VERDADERO
+2016-12-12,ID_ISS_30,ID_COM_02,ID_ST_31,N-A,Referral,2016-12-13,Closed with monetary relief,VERDADERO
+2016-12-12,ID_ISS_23,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-12-12,Closed with non-monetary relief,VERDADERO
+2016-06-01,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Phone,2016-06-02,Closed with explanation,VERDADERO
+2017-02-10,ID_ISS_28,ID_COM_02,ID_ST_24,N-A,Phone,2017-02-10,Closed with non-monetary relief,VERDADERO
+2016-12-10,ID_ISS_14,ID_COM_02,ID_ST_31,Consent provided,Web,2016-12-10,Closed with monetary relief,VERDADERO
+2016-12-13,ID_ISS_22,ID_COM_02,ID_ST_00,Consent not provided,Web,2016-12-13,Closed with monetary relief,VERDADERO
+2016-12-14,ID_ISS_14,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-12-14,Closed with non-monetary relief,VERDADERO
+2016-12-01,ID_ISS_07,ID_COM_06,ID_ST_46,Consent not provided,Web,2016-12-02,Closed with monetary relief,VERDADERO
+2013-05-14,ID_ISS_22,ID_COM_02,ID_ST_18,N-A,Phone,2013-05-15,Closed with monetary relief,VERDADERO
+2013-05-22,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Web,2013-05-22,Closed with explanation,VERDADERO
+2013-05-23,ID_ISS_26,ID_COM_02,ID_ST_14,N-A,Web,2013-05-23,Closed with explanation,VERDADERO
+2013-05-04,ID_ISS_12,ID_COM_02,ID_ST_28,N-A,Web,2013-05-06,Closed with non-monetary relief,VERDADERO
+2013-11-06,ID_ISS_02,ID_COM_02,ID_ST_08,N-A,Web,2013-11-06,Closed with monetary relief,VERDADERO
+2013-05-23,ID_ISS_26,ID_COM_02,ID_ST_11,N-A,Web,2013-05-24,Closed with monetary relief,VERDADERO
+2013-11-07,ID_ISS_08,ID_COM_02,ID_ST_24,N-A,Referral,2013-11-08,Closed with explanation,VERDADERO
+2013-05-23,ID_ISS_21,ID_COM_02,ID_ST_14,N-A,Referral,2013-05-24,Closed with monetary relief,VERDADERO
+2013-05-06,ID_ISS_21,ID_COM_02,ID_ST_27,N-A,Postal mail,2013-05-06,Closed with non-monetary relief,VERDADERO
+2013-06-01,ID_ISS_23,ID_COM_02,ID_ST_31,N-A,Web,2013-06-03,Closed with monetary relief,VERDADERO
+2013-06-01,ID_ISS_22,ID_COM_02,ID_ST_35,N-A,Web,2013-06-01,Closed with monetary relief,VERDADERO
+2013-11-07,ID_ISS_18,ID_COM_02,ID_ST_04,N-A,Referral,2013-11-08,Closed with explanation,VERDADERO
+2013-06-03,ID_ISS_11,ID_COM_02,ID_ST_37,N-A,Web,2013-06-03,Closed with explanation,VERDADERO
+2013-06-03,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Referral,2013-06-04,Closed with explanation,VERDADERO
+2013-05-15,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Fax,2013-05-17,Closed with monetary relief,VERDADERO
+2013-06-19,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Web,2013-06-20,Closed with monetary relief,VERDADERO
+2013-06-11,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Web,2013-06-12,Closed with explanation,VERDADERO
+2013-06-03,ID_ISS_21,ID_COM_02,ID_ST_19,N-A,Web,2013-06-04,Closed with explanation,VERDADERO
+2013-05-15,ID_ISS_28,ID_COM_02,ID_ST_08,N-A,Phone,2013-06-06,Closed with monetary relief,VERDADERO
+2013-11-14,ID_ISS_18,ID_COM_02,ID_ST_38,N-A,Web,2013-11-13,Closed with explanation,VERDADERO
+2013-05-15,ID_ISS_07,ID_COM_02,ID_ST_04,N-A,Referral,2013-05-16,Closed with monetary relief,VERDADERO
+2013-06-11,ID_ISS_23,ID_COM_02,ID_ST_33,N-A,Web,2013-06-11,Closed with monetary relief,VERDADERO
+2013-06-12,ID_ISS_14,ID_COM_02,ID_ST_41,N-A,Web,2013-06-12,Closed with monetary relief,VERDADERO
+2013-06-12,ID_ISS_07,ID_COM_02,ID_ST_43,N-A,Web,2013-06-12,Closed with monetary relief,VERDADERO
+2013-06-12,ID_ISS_23,ID_COM_02,ID_ST_02,N-A,Phone,2013-06-12,Closed with non-monetary relief,VERDADERO
+2013-06-12,ID_ISS_11,ID_COM_08,ID_ST_19,N-A,Web,2013-06-12,Closed with explanation,VERDADERO
+2013-05-15,ID_ISS_02,ID_COM_02,ID_ST_27,N-A,Web,2013-05-16,Closed with explanation,VERDADERO
+2013-05-07,ID_ISS_02,ID_COM_02,ID_ST_08,N-A,Postal mail,2013-05-08,Closed with monetary relief,VERDADERO
+2013-05-15,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Phone,2013-05-30,Closed with explanation,VERDADERO
+2013-06-03,ID_ISS_26,ID_COM_02,ID_ST_35,N-A,Referral,2013-06-05,Closed with explanation,VERDADERO
+2013-06-20,ID_ISS_14,ID_COM_02,ID_ST_48,N-A,Web,2013-06-19,Closed with explanation,VERDADERO
+2013-06-03,ID_ISS_28,ID_COM_02,ID_ST_14,N-A,Web,2013-06-03,Closed with explanation,VERDADERO
+2013-05-07,ID_ISS_11,ID_COM_02,ID_ST_04,N-A,Web,2013-05-08,Closed with non-monetary relief,VERDADERO
+2013-06-04,ID_ISS_18,ID_COM_02,ID_ST_15,N-A,Web,2013-06-04,Closed with explanation,VERDADERO
+2013-06-04,ID_ISS_19,ID_COM_02,ID_ST_14,N-A,Web,2013-06-05,Closed with non-monetary relief,VERDADERO
+2013-12-03,ID_ISS_11,ID_COM_02,ID_ST_09,N-A,Web,2013-12-09,Closed with monetary relief,VERDADERO
+2013-06-28,ID_ISS_16,ID_COM_02,ID_ST_14,N-A,Web,2013-06-28,Closed with explanation,VERDADERO
+2013-06-28,ID_ISS_12,ID_COM_02,ID_ST_31,N-A,Web,2013-07-01,Closed with explanation,VERDADERO
+2013-07-09,ID_ISS_15,ID_COM_02,ID_ST_33,N-A,Phone,2013-07-10,Closed with explanation,VERDADERO
+2013-11-02,ID_ISS_24,ID_COM_02,ID_ST_08,N-A,Web,2013-11-02,Closed with explanation,VERDADERO
+2013-07-09,ID_ISS_11,ID_COM_02,ID_ST_24,N-A,Web,2013-07-09,Closed with monetary relief,VERDADERO
+2013-07-16,ID_ISS_11,ID_COM_02,ID_ST_32,N-A,Web,2013-07-15,Closed with explanation,VERDADERO
+2013-07-17,ID_ISS_16,ID_COM_02,ID_ST_08,N-A,Postal mail,2013-07-22,Closed with explanation,VERDADERO
+2013-05-08,ID_ISS_14,ID_COM_02,ID_ST_09,N-A,Web,2013-05-09,Closed with explanation,VERDADERO
+2013-11-14,ID_ISS_07,ID_COM_02,ID_ST_12,N-A,Phone,2013-11-14,Closed with monetary relief,VERDADERO
+2013-05-28,ID_ISS_22,ID_COM_02,ID_ST_20,N-A,Web,2013-05-30,Closed with monetary relief,VERDADERO
+2013-05-28,ID_ISS_22,ID_COM_02,ID_ST_15,N-A,Web,2013-05-28,Closed with monetary relief,VERDADERO
+2013-05-28,ID_ISS_14,ID_COM_02,ID_ST_09,N-A,Web,2013-05-30,Closed with explanation,VERDADERO
+2013-05-08,ID_ISS_31,ID_COM_02,ID_ST_03,N-A,Web,2013-05-08,Closed with explanation,VERDADERO
+2013-05-09,ID_ISS_07,ID_COM_02,ID_ST_22,N-A,Phone,2013-05-13,Closed with explanation,VERDADERO
+2013-06-13,ID_ISS_20,ID_COM_08,ID_ST_38,N-A,Web,2013-06-13,Closed,VERDADERO
+2013-05-09,ID_ISS_21,ID_COM_02,ID_ST_14,N-A,Postal mail,2013-05-24,Closed with monetary relief,VERDADERO
+2013-06-13,ID_ISS_08,ID_COM_02,ID_ST_14,N-A,Web,2013-06-14,Closed with explanation,VERDADERO
+2013-05-29,ID_ISS_23,ID_COM_02,ID_ST_35,N-A,Referral,2013-05-30,Closed with non-monetary relief,VERDADERO
+2013-07-01,ID_ISS_22,ID_COM_02,ID_ST_44,N-A,Referral,2013-07-05,Closed with monetary relief,VERDADERO
+2013-07-01,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Postal mail,2013-07-02,Closed with explanation,VERDADERO
+2013-11-14,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Postal mail,2013-11-21,Closed with explanation,VERDADERO
+2013-05-16,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2013-05-17,Closed with monetary relief,VERDADERO
+2013-07-01,ID_ISS_22,ID_COM_02,ID_ST_00,N-A,Referral,2013-07-05,Closed with monetary relief,VERDADERO
+2013-06-05,ID_ISS_11,ID_COM_02,ID_ST_24,N-A,Web,2013-06-05,Closed with explanation,VERDADERO
+2013-11-07,ID_ISS_21,ID_COM_02,ID_ST_19,N-A,Web,2013-11-07,Closed with explanation,VERDADERO
+2013-06-21,ID_ISS_07,ID_COM_02,ID_ST_05,N-A,Referral,2013-06-25,Closed with explanation,VERDADERO
+2013-05-29,ID_ISS_22,ID_COM_02,ID_ST_21,N-A,Phone,2013-05-30,Closed with monetary relief,VERDADERO
+2013-05-29,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Postal mail,2013-05-30,Closed with monetary relief,VERDADERO
+2013-07-02,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2013-07-05,Closed with non-monetary relief,VERDADERO
+2013-05-17,ID_ISS_11,ID_COM_02,ID_ST_25,N-A,Web,2013-05-17,Closed with explanation,VERDADERO
+2013-07-02,ID_ISS_13,ID_COM_02,ID_ST_03,N-A,Phone,2013-07-02,Closed with non-monetary relief,VERDADERO
+2013-05-17,ID_ISS_16,ID_COM_02,ID_ST_45,N-A,Web,2013-05-21,Closed with explanation,VERDADERO
+2013-06-06,ID_ISS_28,ID_COM_02,ID_ST_03,N-A,Referral,2013-06-07,Closed with explanation,VERDADERO
+2013-07-02,ID_ISS_26,ID_COM_02,ID_ST_14,N-A,Referral,2013-07-08,Closed with explanation,VERDADERO
+2013-06-22,ID_ISS_12,ID_COM_02,ID_ST_27,N-A,Web,2013-07-09,Closed with explanation,VERDADERO
+2013-07-03,ID_ISS_11,ID_COM_02,ID_ST_08,N-A,Web,2013-07-03,Closed with explanation,VERDADERO
+2013-07-03,ID_ISS_14,ID_COM_02,ID_ST_03,N-A,Web,2013-07-02,Closed with explanation,VERDADERO
+2013-06-24,ID_ISS_28,ID_COM_02,ID_ST_02,N-A,Web,2013-06-24,Closed with monetary relief,VERDADERO
+2013-07-11,ID_ISS_14,ID_COM_02,ID_ST_14,N-A,Web,2013-07-11,Closed with monetary relief,VERDADERO
+2013-07-11,ID_ISS_07,ID_COM_02,ID_ST_23,N-A,Referral,2013-07-15,Closed with explanation,VERDADERO
+2013-06-24,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Web,2013-06-25,Closed with non-monetary relief,VERDADERO
+2013-06-06,ID_ISS_26,ID_COM_02,ID_ST_09,N-A,Web,2013-06-07,Closed with explanation,VERDADERO
+2013-06-24,ID_ISS_19,ID_COM_02,ID_ST_09,N-A,Referral,2013-06-25,Closed with monetary relief,VERDADERO
+2013-11-26,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Email,2013-12-10,Closed with explanation,VERDADERO
+2013-06-24,ID_ISS_23,ID_COM_02,ID_ST_49,N-A,Web,2013-06-24,Closed with non-monetary relief,VERDADERO
+2013-06-07,ID_ISS_15,ID_COM_02,ID_ST_44,N-A,Referral,2013-06-10,Closed with explanation,VERDADERO
+2013-06-24,ID_ISS_21,ID_COM_02,ID_ST_19,N-A,Web,2013-07-09,Closed with explanation,VERDADERO
+2013-05-20,ID_ISS_07,ID_COM_02,ID_ST_42,N-A,Referral,2013-05-21,Closed with explanation,VERDADERO
+2013-07-11,ID_ISS_31,ID_COM_02,ID_ST_00,N-A,Referral,2013-07-15,Closed with explanation,VERDADERO
+2013-06-25,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Referral,2013-06-26,Closed with monetary relief,VERDADERO
+2013-07-11,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Referral,2013-07-15,Closed with explanation,VERDADERO
+2013-07-11,ID_ISS_23,ID_COM_02,ID_ST_31,N-A,Referral,2013-07-15,Closed with monetary relief,VERDADERO
+2013-07-18,ID_ISS_21,ID_COM_02,ID_ST_19,N-A,Web,2013-07-22,Closed with monetary relief,VERDADERO
+2013-07-18,ID_ISS_00,ID_COM_02,ID_ST_31,N-A,Web,2013-07-25,Closed with explanation,VERDADERO
+2013-07-26,ID_ISS_15,ID_COM_02,ID_ST_27,N-A,Web,2013-07-25,Closed with explanation,VERDADERO
+2013-05-01,ID_ISS_12,ID_COM_02,ID_ST_44,N-A,Referral,2013-05-02,Closed with monetary relief,VERDADERO
+2013-05-02,ID_ISS_31,ID_COM_02,ID_ST_46,N-A,Phone,2013-05-03,Closed with explanation,VERDADERO
+2013-05-20,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Referral,2013-05-22,Closed with explanation,VERDADERO
+2013-05-02,ID_ISS_14,ID_COM_02,ID_ST_04,N-A,Phone,2013-05-03,Closed with monetary relief,VERDADERO
+2013-05-30,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Web,2013-05-30,Closed with monetary relief,VERDADERO
+2013-12-03,ID_ISS_22,ID_COM_02,ID_ST_38,N-A,Referral,2013-12-05,Closed with explanation,VERDADERO
+2013-05-02,ID_ISS_02,ID_COM_02,ID_ST_48,N-A,Web,2013-05-02,Closed with explanation,VERDADERO
+2013-12-03,ID_ISS_15,ID_COM_02,ID_ST_09,N-A,Postal mail,2013-12-04,Closed with explanation,VERDADERO
+2013-05-03,ID_ISS_20,ID_COM_02,ID_ST_31,N-A,Web,2013-05-06,Closed with explanation,VERDADERO
+2013-05-12,ID_ISS_21,ID_COM_02,ID_ST_22,N-A,Web,2013-05-13,Closed with monetary relief,VERDADERO
+2013-05-03,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Web,2013-05-03,Closed with explanation,VERDADERO
+2013-07-03,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Phone,2013-07-05,Closed with monetary relief,VERDADERO
+2013-05-31,ID_ISS_00,ID_COM_02,ID_ST_11,N-A,Web,2013-05-30,Closed with monetary relief,VERDADERO
+2013-05-03,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Web,2013-05-06,Closed with non-monetary relief,VERDADERO
+2013-05-31,ID_ISS_28,ID_COM_02,ID_ST_34,N-A,Postal mail,2013-05-31,Closed with monetary relief,VERDADERO
+2013-12-03,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Phone,2013-12-04,Closed with explanation,VERDADERO
+2013-06-17,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Postal mail,2013-06-17,Closed with monetary relief,VERDADERO
+2013-06-17,ID_ISS_23,ID_COM_02,ID_ST_31,N-A,Postal mail,2013-06-17,Closed with monetary relief,VERDADERO
+2013-08-14,ID_ISS_19,ID_COM_02,ID_ST_48,N-A,Web,2013-08-21,Closed with explanation,VERDADERO
+2013-06-07,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Web,2013-06-07,Closed with explanation,VERDADERO
+2013-07-04,ID_ISS_19,ID_COM_02,ID_ST_25,N-A,Web,2013-07-05,Closed with explanation,VERDADERO
+2013-07-04,ID_ISS_21,ID_COM_02,ID_ST_32,N-A,Web,2013-07-05,Closed with explanation,VERDADERO
+2013-06-17,ID_ISS_23,ID_COM_02,ID_ST_22,N-A,Phone,2013-06-17,Closed with explanation,VERDADERO
+2013-06-25,ID_ISS_04,ID_COM_02,ID_ST_35,N-A,Web,2013-06-25,Closed with non-monetary relief,VERDADERO
+2013-06-07,ID_ISS_02,ID_COM_02,ID_ST_49,N-A,Referral,2013-06-10,Closed with monetary relief,VERDADERO
+2013-06-17,ID_ISS_07,ID_COM_02,ID_ST_44,N-A,Web,2013-06-17,Closed with monetary relief,VERDADERO
+2013-06-17,ID_ISS_07,ID_COM_02,ID_ST_44,N-A,Web,2013-06-17,Closed with explanation,VERDADERO
+2013-05-22,ID_ISS_23,ID_COM_02,ID_ST_34,N-A,Web,2013-05-23,Closed with monetary relief,VERDADERO
+2013-05-13,ID_ISS_00,ID_COM_02,ID_ST_08,N-A,Web,2013-05-13,Closed with non-monetary relief,VERDADERO
+2013-05-31,ID_ISS_24,ID_COM_02,ID_ST_34,N-A,Phone,2013-06-03,Closed with monetary relief,VERDADERO
+2013-06-10,ID_ISS_15,ID_COM_02,ID_ST_48,N-A,Web,2013-06-10,Closed with non-monetary relief,VERDADERO
+2013-07-05,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Web,2013-07-08,Closed with explanation,VERDADERO
+2013-07-05,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Phone,2013-07-08,Closed with monetary relief,VERDADERO
+2013-12-04,ID_ISS_18,ID_COM_02,ID_ST_03,N-A,Web,2013-12-03,Closed with explanation,VERDADERO
+2013-05-14,ID_ISS_08,ID_COM_02,ID_ST_27,N-A,Postal mail,2013-05-15,Closed with monetary relief,VERDADERO
+2013-07-06,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Web,2013-07-06,Closed with explanation,VERDADERO
+2013-06-01,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Web,2013-06-01,Closed with monetary relief,VERDADERO
+2013-07-07,ID_ISS_19,ID_COM_02,ID_ST_34,N-A,Web,2013-07-08,Closed with explanation,VERDADERO
+2013-07-07,ID_ISS_16,ID_COM_02,ID_ST_08,N-A,Web,2013-07-08,Closed with explanation,VERDADERO
+2013-06-10,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Web,2013-06-10,Closed with explanation,VERDADERO
+2013-06-18,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Web,2013-06-18,Closed with explanation,VERDADERO
+2013-07-12,ID_ISS_11,ID_COM_02,ID_ST_19,N-A,Referral,2013-07-15,Closed with explanation,VERDADERO
+2013-06-10,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Web,2013-06-12,Closed with monetary relief,VERDADERO
+2013-12-04,ID_ISS_21,ID_COM_02,ID_ST_27,N-A,Referral,2013-12-06,Closed with explanation,VERDADERO
+2013-06-18,ID_ISS_11,ID_COM_02,ID_ST_02,N-A,Web,2013-06-18,Closed with non-monetary relief,VERDADERO
+2013-07-12,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Web,2013-07-12,Closed with monetary relief,VERDADERO
+2013-12-04,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Referral,2013-12-04,Closed with monetary relief,VERDADERO
+2013-08-14,ID_ISS_22,ID_COM_02,ID_ST_44,N-A,Web,2013-08-14,Closed with monetary relief,VERDADERO
+2013-06-27,ID_ISS_28,ID_COM_02,ID_ST_22,N-A,Web,2013-06-26,Closed with explanation,VERDADERO
+2013-06-27,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Referral,2013-06-28,Closed with explanation,VERDADERO
+2013-06-27,ID_ISS_11,ID_COM_02,ID_ST_14,N-A,Postal mail,2013-07-02,Closed with explanation,VERDADERO
+2013-12-10,ID_ISS_02,ID_COM_02,ID_ST_36,N-A,Phone,2013-12-11,Closed with explanation,VERDADERO
+2013-07-15,ID_ISS_29,ID_COM_02,ID_ST_43,N-A,Postal mail,2013-07-17,Closed with explanation,VERDADERO
+2013-07-19,ID_ISS_02,ID_COM_02,ID_ST_32,N-A,Web,2013-07-19,Closed with monetary relief,VERDADERO
+2013-07-15,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2013-07-16,Closed with explanation,VERDADERO
+2013-12-10,ID_ISS_23,ID_COM_02,ID_ST_47,N-A,Web,2013-12-10,Closed with explanation,VERDADERO
+2013-07-21,ID_ISS_19,ID_COM_02,ID_ST_03,N-A,Web,2013-07-21,Closed with explanation,VERDADERO
+2016-04-03,ID_ISS_00,ID_COM_02,ID_ST_07,Consent not provided,Web,2016-04-03,Closed with explanation,VERDADERO
+2016-04-16,ID_ISS_22,ID_COM_02,ID_ST_03,Consent provided,Web,2016-04-19,Closed with monetary relief,VERDADERO
+2013-11-20,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Web,2013-11-20,Closed with explanation,VERDADERO
+2017-01-03,ID_ISS_19,ID_COM_02,ID_ST_19,Consent not provided,Web,2017-01-04,Closed with non-monetary relief,VERDADERO
+2016-03-15,ID_ISS_22,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-21,Closed with monetary relief,VERDADERO
+2016-03-07,ID_ISS_18,ID_COM_02,ID_ST_44,Consent provided,Web,2016-03-07,Closed with monetary relief,VERDADERO
+2015-02-18,ID_ISS_08,ID_COM_02,ID_ST_31,N-A,Web,2015-02-18,Closed with monetary relief,VERDADERO
+2016-03-08,ID_ISS_07,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-08,Closed with monetary relief,VERDADERO
+2016-03-28,ID_ISS_19,ID_COM_02,ID_ST_34,Consent provided,Web,2016-03-28,Closed with explanation,VERDADERO
+2013-12-10,ID_ISS_02,ID_COM_02,ID_ST_44,N-A,Web,2013-12-17,Closed with explanation,VERDADERO
+2016-04-15,ID_ISS_21,ID_COM_02,ID_ST_38,Consent provided,Web,2016-04-20,Closed with monetary relief,VERDADERO
+2016-04-19,ID_ISS_21,ID_COM_02,ID_ST_19,N-A,Phone,2016-04-19,Closed with explanation,VERDADERO
+2016-04-17,ID_ISS_31,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-20,Closed with explanation,VERDADERO
+2016-04-06,ID_ISS_26,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-04-06,Closed with monetary relief,VERDADERO
+2016-04-13,ID_ISS_00,ID_COM_02,ID_ST_39,N-A,Postal mail,2016-04-20,Closed with explanation,VERDADERO
+2016-04-21,ID_ISS_24,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-21,Closed with explanation,VERDADERO
+2013-12-21,ID_ISS_21,ID_COM_02,ID_ST_22,N-A,Referral,2014-01-06,Closed with explanation,VERDADERO
+2016-12-13,ID_ISS_28,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-12-13,Closed with explanation,VERDADERO
+2016-05-29,ID_ISS_28,ID_COM_02,ID_ST_48,Consent not provided,Web,2016-06-02,Closed with explanation,VERDADERO
+2017-01-31,ID_ISS_28,ID_COM_02,ID_ST_04,Consent provided,Web,2017-01-31,Closed with non-monetary relief,VERDADERO
+2016-04-08,ID_ISS_07,ID_COM_02,ID_ST_11,Consent provided,Web,2016-04-21,Closed with explanation,VERDADERO
+2016-04-22,ID_ISS_07,ID_COM_02,ID_ST_03,Consent provided,Web,2016-04-22,Closed with monetary relief,VERDADERO
+2017-02-07,ID_ISS_22,ID_COM_02,ID_ST_35,N-A,Postal mail,2017-02-09,Closed with monetary relief,VERDADERO
+2016-04-02,ID_ISS_07,ID_COM_02,ID_ST_46,Consent not provided,Web,2016-04-02,Closed with explanation,VERDADERO
+2016-04-20,ID_ISS_07,ID_COM_02,ID_ST_35,Consent provided,Web,2016-04-20,Closed with monetary relief,VERDADERO
+2017-01-29,ID_ISS_11,ID_COM_02,ID_ST_03,Consent provided,Web,2017-01-29,Closed with explanation,VERDADERO
+2016-04-21,ID_ISS_15,ID_COM_02,ID_ST_44,N-A,Postal mail,2016-04-22,Closed with explanation,VERDADERO
+2016-04-18,ID_ISS_21,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-20,Closed with explanation,VERDADERO
+2016-04-20,ID_ISS_31,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-21,Closed with explanation,VERDADERO
+2016-03-16,ID_ISS_22,ID_COM_02,ID_ST_24,Consent provided,Web,2016-03-16,Closed with monetary relief,VERDADERO
+2016-03-23,ID_ISS_08,ID_COM_02,ID_ST_11,Consent not provided,Web,2016-03-23,Closed with monetary relief,VERDADERO
+2016-04-04,ID_ISS_21,ID_COM_02,ID_ST_14,Consent not provided,Web,2016-04-04,Closed with monetary relief,VERDADERO
+2016-05-23,ID_ISS_09,ID_COM_08,ID_ST_19,N-A,Postal mail,2016-05-26,Closed,VERDADERO
+2016-10-23,ID_ISS_07,ID_COM_02,ID_ST_37,Consent provided,Web,2016-10-23,Closed with explanation,VERDADERO
+2016-12-10,ID_ISS_27,ID_COM_02,ID_ST_44,Consent provided,Web,2016-12-10,Closed with explanation,VERDADERO
+2016-12-19,ID_ISS_07,ID_COM_06,ID_ST_34,Consent provided,Web,2016-12-19,Closed with explanation,VERDADERO
+2016-12-08,ID_ISS_21,ID_COM_02,ID_ST_48,Consent provided,Web,2016-12-08,Closed with monetary relief,VERDADERO
+2016-12-12,ID_ISS_21,ID_COM_02,ID_ST_19,Consent provided,Web,2016-12-12,Closed with explanation,VERDADERO
+2016-12-09,ID_ISS_01,ID_COM_02,ID_ST_08,Consent not provided,Web,2016-12-09,Closed with explanation,VERDADERO
+2017-01-30,ID_ISS_19,ID_COM_02,ID_ST_34,Consent provided,Web,2017-01-30,Closed with monetary relief,VERDADERO
+2016-04-13,ID_ISS_14,ID_COM_02,ID_ST_49,Consent provided,Web,2016-04-13,Closed with explanation,VERDADERO
+2016-04-24,ID_ISS_21,ID_COM_02,ID_ST_36,Consent not provided,Web,2016-04-24,Closed with non-monetary relief,VERDADERO
+2013-12-04,ID_ISS_18,ID_COM_02,ID_ST_02,N-A,Web,2013-12-11,Closed with explanation,VERDADERO
+2016-04-25,ID_ISS_21,ID_COM_02,ID_ST_43,Consent not provided,Web,2016-04-25,Closed with explanation,VERDADERO
+2016-12-11,ID_ISS_23,ID_COM_02,ID_ST_19,Consent provided,Web,2016-12-11,Closed with monetary relief,VERDADERO
+2016-06-20,ID_ISS_02,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-06-20,Closed with explanation,VERDADERO
+2017-01-20,ID_ISS_14,ID_COM_02,ID_ST_46,Consent provided,Web,2017-01-20,Closed with explanation,VERDADERO
+2012-01-24,ID_ISS_02,ID_COM_02,ID_ST_01,N-A,Web,2012-01-24,Closed with relief,VERDADERO
+2013-12-16,ID_ISS_23,ID_COM_02,ID_ST_44,N-A,Postal mail,2013-12-19,Closed with explanation,VERDADERO
+2016-03-13,ID_ISS_08,ID_COM_02,ID_ST_49,Consent not provided,Web,2016-03-13,Closed with monetary relief,VERDADERO
+2012-04-05,ID_ISS_11,ID_COM_02,ID_ST_41,N-A,Web,2012-04-06,Closed with relief,VERDADERO
+2017-02-08,ID_ISS_24,ID_COM_02,ID_ST_11,N-A,Referral,2017-02-13,Closed with non-monetary relief,VERDADERO
+2013-12-04,ID_ISS_11,ID_COM_02,ID_ST_31,N-A,Referral,2013-12-06,Closed with explanation,VERDADERO
+2012-02-10,ID_ISS_12,ID_COM_02,ID_ST_08,N-A,Referral,2012-02-10,Closed without relief,FALSO
+2016-03-05,ID_ISS_21,ID_COM_02,ID_ST_03,Consent provided,Web,2016-03-10,Closed with monetary relief,VERDADERO
+2016-04-28,ID_ISS_02,ID_COM_02,ID_ST_38,Consent provided,Web,2016-04-28,Closed with explanation,VERDADERO
+2016-06-23,ID_ISS_23,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-06-23,Closed with explanation,VERDADERO
+2016-10-27,ID_ISS_21,ID_COM_02,ID_ST_48,Consent not provided,Web,2016-12-13,Closed with non-monetary relief,VERDADERO
+2012-02-28,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Web,2012-02-29,Closed with relief,VERDADERO
+2011-12-01,ID_ISS_08,ID_COM_02,ID_ST_31,N-A,Referral,2011-12-05,Closed without relief,VERDADERO
+2012-04-19,ID_ISS_12,ID_COM_02,ID_ST_19,N-A,Web,2012-04-23,Closed without relief,VERDADERO
+2011-12-01,ID_ISS_21,ID_COM_02,ID_ST_33,N-A,Web,2011-12-19,Closed without relief,VERDADERO
+2013-11-15,ID_ISS_28,ID_COM_02,ID_ST_46,N-A,Web,2013-11-15,Closed with non-monetary relief,VERDADERO
+2011-12-02,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-07,Closed without relief,VERDADERO
+2012-05-21,ID_ISS_15,ID_COM_02,ID_ST_34,N-A,Referral,2012-05-31,Closed with non-monetary relief,VERDADERO
+2011-12-01,ID_ISS_17,ID_COM_02,ID_ST_02,N-A,Referral,2011-12-01,Closed without relief,VERDADERO
+2011-12-01,ID_ISS_02,ID_COM_02,ID_ST_04,N-A,Web,2011-12-09,Closed with relief,VERDADERO
+2012-06-04,ID_ISS_22,ID_COM_02,ID_ST_22,N-A,Referral,2012-06-08,Closed with monetary relief,VERDADERO
+2011-12-30,ID_ISS_26,ID_COM_02,ID_ST_51,N-A,Web,2011-12-30,Closed with relief,VERDADERO
+2011-12-30,ID_ISS_21,ID_COM_02,ID_ST_14,N-A,Web,2012-01-03,Closed with relief,VERDADERO
+2011-12-30,ID_ISS_03,ID_COM_02,ID_ST_05,N-A,Web,2012-01-03,Closed with relief,VERDADERO
+2011-12-01,ID_ISS_08,ID_COM_02,ID_ST_03,N-A,Web,2011-12-05,Untimely response,FALSO
+2012-03-11,ID_ISS_02,ID_COM_02,ID_ST_22,N-A,Referral,2012-03-14,Closed without relief,VERDADERO
+2012-02-10,ID_ISS_10,ID_COM_02,ID_ST_08,N-A,Web,2012-02-13,Closed with relief,VERDADERO
+2012-05-16,ID_ISS_07,ID_COM_02,ID_ST_05,N-A,Referral,2012-05-17,Closed with relief,VERDADERO
+2012-03-30,ID_ISS_13,ID_COM_02,ID_ST_03,N-A,Referral,2012-04-04,Closed without relief,VERDADERO
+2012-02-09,ID_ISS_26,ID_COM_02,ID_ST_19,N-A,Web,2012-02-10,Closed without relief,VERDADERO
+2012-06-02,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Web,2012-06-04,Closed with explanation,VERDADERO
+2012-05-21,ID_ISS_05,ID_COM_02,ID_ST_34,N-A,Referral,2012-06-05,Closed with monetary relief,VERDADERO
+2012-03-12,ID_ISS_07,ID_COM_02,ID_ST_14,N-A,Web,2012-03-12,Closed without relief,VERDADERO
+2012-05-16,ID_ISS_13,ID_COM_02,ID_ST_14,N-A,Referral,2012-05-29,Closed with explanation,VERDADERO
+2011-12-02,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-02,Closed without relief,VERDADERO
+2011-12-02,ID_ISS_22,ID_COM_02,ID_ST_22,N-A,Referral,2011-12-02,Closed without relief,VERDADERO
+2012-01-25,ID_ISS_20,ID_COM_02,ID_ST_03,N-A,Web,2012-01-26,Closed without relief,VERDADERO
+2011-12-02,ID_ISS_19,ID_COM_02,ID_ST_44,N-A,Referral,2011-12-02,Closed without relief,VERDADERO
+2012-02-09,ID_ISS_10,ID_COM_02,ID_ST_43,N-A,Web,2012-02-10,Closed without relief,VERDADERO
+2015-03-05,ID_ISS_08,ID_COM_02,ID_ST_24,N-A,Web,2015-03-05,Closed with monetary relief,VERDADERO
+2012-03-22,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-22,Closed without relief,VERDADERO
+2011-12-02,ID_ISS_26,ID_COM_02,ID_ST_35,N-A,Referral,2011-12-02,Closed with relief,VERDADERO
+2012-01-25,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Web,2012-01-26,Closed with relief,VERDADERO
+2012-01-02,ID_ISS_02,ID_COM_02,ID_ST_38,N-A,Web,2012-01-03,Closed without relief,VERDADERO
+2012-04-06,ID_ISS_17,ID_COM_02,ID_ST_18,N-A,Web,2012-04-06,Closed without relief,VERDADERO
+2012-05-15,ID_ISS_05,ID_COM_02,ID_ST_03,N-A,Web,2012-05-18,Closed with relief,VERDADERO
+2012-04-20,ID_ISS_11,ID_COM_02,ID_ST_41,N-A,Referral,2012-04-20,Closed without relief,VERDADERO
+2012-02-10,ID_ISS_02,ID_COM_02,ID_ST_01,N-A,Web,2012-02-17,Closed without relief,VERDADERO
+2013-11-27,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Web,2013-12-02,Closed with monetary relief,VERDADERO
+2012-01-02,ID_ISS_08,ID_COM_02,ID_ST_11,N-A,Web,2012-01-03,Closed with relief,VERDADERO
+2012-05-16,ID_ISS_13,ID_COM_02,ID_ST_49,N-A,Referral,2012-05-24,Closed without relief,VERDADERO
+2012-05-03,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Web,2012-05-04,Closed with relief,VERDADERO
+2012-03-14,ID_ISS_23,ID_COM_02,ID_ST_14,N-A,Referral,2012-03-14,Closed without relief,VERDADERO
+2013-12-21,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Web,2013-12-20,Closed with explanation,VERDADERO
+2012-03-28,ID_ISS_06,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-28,Closed without relief,VERDADERO
+2012-05-21,ID_ISS_12,ID_COM_02,ID_ST_49,N-A,Referral,2012-05-31,Closed with monetary relief,VERDADERO
+2011-12-03,ID_ISS_22,ID_COM_02,ID_ST_31,N-A,Web,2011-12-06,Closed with relief,VERDADERO
+2012-06-04,ID_ISS_26,ID_COM_02,ID_ST_49,N-A,Referral,2012-06-18,Closed with non-monetary relief,VERDADERO
+2012-05-21,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Referral,2012-05-24,Closed with relief,VERDADERO
+2012-03-01,ID_ISS_02,ID_COM_02,ID_ST_24,N-A,Web,2012-03-02,Closed with relief,VERDADERO
+2012-01-25,ID_ISS_31,ID_COM_02,ID_ST_38,N-A,Web,2012-01-26,Closed with relief,VERDADERO
+2011-12-05,ID_ISS_15,ID_COM_02,ID_ST_20,N-A,Referral,2011-12-04,Closed without relief,VERDADERO
+2011-12-05,ID_ISS_23,ID_COM_02,ID_ST_20,N-A,Referral,2011-12-05,Closed with relief,VERDADERO
+2012-02-13,ID_ISS_05,ID_COM_02,ID_ST_07,N-A,Web,2012-02-14,Closed with relief,VERDADERO
+2012-01-04,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Web,2012-01-04,Closed without relief,VERDADERO
+2011-12-05,ID_ISS_24,ID_COM_02,ID_ST_45,N-A,Web,2011-12-06,Closed with relief,VERDADERO
+2011-12-05,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-05,Closed with relief,VERDADERO
+2012-06-04,ID_ISS_01,ID_COM_02,ID_ST_14,N-A,Web,2012-06-04,Closed with non-monetary relief,VERDADERO
+2011-12-05,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Web,2011-12-06,Closed with relief,FALSO
+2012-01-04,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Postal mail,2012-01-05,Closed with relief,VERDADERO
+2012-03-02,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-02,Closed without relief,VERDADERO
+2013-12-16,ID_ISS_21,ID_COM_02,ID_ST_24,N-A,Web,2013-12-16,Closed with explanation,VERDADERO
+2012-06-04,ID_ISS_08,ID_COM_02,ID_ST_31,N-A,Phone,2012-06-04,Closed with explanation,VERDADERO
+2012-01-23,ID_ISS_07,ID_COM_02,ID_ST_41,N-A,Referral,2012-01-26,Closed without relief,FALSO
+2011-12-05,ID_ISS_13,ID_COM_02,ID_ST_38,N-A,Referral,2011-12-05,Closed without relief,VERDADERO
+2012-03-22,ID_ISS_11,ID_COM_02,ID_ST_43,N-A,Postal mail,2012-03-23,Closed with relief,VERDADERO
+2012-03-22,ID_ISS_02,ID_COM_02,ID_ST_44,N-A,Postal mail,2012-03-23,Closed without relief,VERDADERO
+2012-03-01,ID_ISS_02,ID_COM_02,ID_ST_44,N-A,Web,2012-03-02,Closed with relief,VERDADERO
+2012-01-11,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Referral,2012-01-11,Closed without relief,VERDADERO
+2012-01-25,ID_ISS_26,ID_COM_02,ID_ST_35,N-A,Web,2012-01-26,Closed with relief,VERDADERO
+2012-05-24,ID_ISS_02,ID_COM_02,ID_ST_06,N-A,Web,2012-05-24,Closed without relief,VERDADERO
+2011-12-01,ID_ISS_21,ID_COM_02,ID_ST_35,N-A,Referral,2011-12-06,Closed with relief,VERDADERO
+2012-05-04,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Web,2012-05-09,Closed with relief,VERDADERO
+2012-03-14,ID_ISS_01,ID_COM_02,ID_ST_38,N-A,Postal mail,2012-03-15,Closed without relief,VERDADERO
+2012-01-04,ID_ISS_08,ID_COM_02,ID_ST_31,N-A,Web,2012-01-05,Closed with relief,VERDADERO
+2012-04-20,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-04-27,Closed without relief,VERDADERO
+2011-12-05,ID_ISS_12,ID_COM_02,ID_ST_35,N-A,Referral,2011-12-05,Closed without relief,VERDADERO
+2012-06-04,ID_ISS_11,ID_COM_02,ID_ST_02,N-A,Web,2012-06-04,Closed with non-monetary relief,VERDADERO
+2012-03-02,ID_ISS_11,ID_COM_02,ID_ST_48,N-A,Web,2012-03-02,Closed without relief,VERDADERO
+2012-02-13,ID_ISS_17,ID_COM_02,ID_ST_03,N-A,Web,2012-02-14,Closed without relief,VERDADERO
+2012-01-05,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Web,2012-01-05,Closed without relief,VERDADERO
+2012-02-13,ID_ISS_18,ID_COM_02,ID_ST_22,N-A,Web,2012-02-14,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_11,ID_COM_02,ID_ST_01,N-A,Referral,2011-12-06,Closed with relief,VERDADERO
+2012-05-17,ID_ISS_30,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-25,Closed with monetary relief,VERDADERO
+2012-03-02,ID_ISS_08,ID_COM_02,ID_ST_38,N-A,Web,2012-03-02,Closed with relief,VERDADERO
+2012-04-09,ID_ISS_07,ID_COM_02,ID_ST_43,N-A,Phone,2012-04-10,Closed without relief,VERDADERO
+2012-04-21,ID_ISS_26,ID_COM_02,ID_ST_20,N-A,Web,2012-04-24,Closed with relief,VERDADERO
+2012-03-14,ID_ISS_13,ID_COM_02,ID_ST_08,N-A,Web,2012-03-15,Closed without relief,VERDADERO
+2012-01-05,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Web,2012-01-05,Closed with relief,VERDADERO
+2011-12-06,ID_ISS_14,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-06,Closed with relief,VERDADERO
+2012-05-17,ID_ISS_13,ID_COM_02,ID_ST_27,N-A,Referral,2012-05-25,Closed with relief,VERDADERO
+2012-05-17,ID_ISS_16,ID_COM_02,ID_ST_04,N-A,Referral,2012-05-24,Closed with explanation,VERDADERO
+2011-12-06,ID_ISS_22,ID_COM_02,ID_ST_33,N-A,Referral,2011-12-06,Closed with relief,FALSO
+2013-12-22,ID_ISS_07,ID_COM_02,ID_ST_36,N-A,Web,2013-12-30,Closed with explanation,VERDADERO
+2012-01-05,ID_ISS_14,ID_COM_02,ID_ST_41,N-A,Web,2012-01-06,Closed without relief,VERDADERO
+2013-12-22,ID_ISS_22,ID_COM_02,ID_ST_09,N-A,Web,2013-12-22,Closed with monetary relief,VERDADERO
+2012-03-02,ID_ISS_16,ID_COM_02,ID_ST_09,N-A,Web,2012-03-06,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_12,ID_COM_02,ID_ST_34,N-A,Referral,2011-12-06,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_31,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-06,Closed with relief,VERDADERO
+2012-05-05,ID_ISS_14,ID_COM_02,ID_ST_05,N-A,Postal mail,2012-05-07,Closed without relief,VERDADERO
+2012-01-05,ID_ISS_23,ID_COM_02,ID_ST_12,N-A,Web,2012-01-06,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_18,ID_COM_02,ID_ST_35,N-A,Referral,2011-12-06,Closed without relief,VERDADERO
+2012-01-05,ID_ISS_26,ID_COM_02,ID_ST_08,N-A,Referral,2012-09-17,Closed with monetary relief,VERDADERO
+2012-02-13,ID_ISS_11,ID_COM_02,ID_ST_44,N-A,Web,2012-02-14,Closed without relief,VERDADERO
+2012-04-09,ID_ISS_07,ID_COM_02,ID_ST_21,N-A,Phone,2012-04-10,Closed with relief,VERDADERO
+2012-01-05,ID_ISS_02,ID_COM_02,ID_ST_04,N-A,Phone,2012-01-10,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_26,ID_COM_02,ID_ST_25,N-A,Referral,2011-12-06,Closed with relief,VERDADERO
+2012-02-13,ID_ISS_20,ID_COM_02,ID_ST_44,N-A,Web,2012-02-15,Closed without relief,VERDADERO
+2012-03-12,ID_ISS_28,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-20,Closed without relief,VERDADERO
+2012-01-07,ID_ISS_16,ID_COM_02,ID_ST_11,N-A,Web,2012-01-10,Closed without relief,VERDADERO
+2012-01-09,ID_ISS_13,ID_COM_02,ID_ST_14,N-A,Web,2012-01-09,Closed without relief,VERDADERO
+2012-05-18,ID_ISS_02,ID_COM_02,ID_ST_38,N-A,Referral,2012-05-22,Closed without relief,VERDADERO
+2012-03-25,ID_ISS_07,ID_COM_02,ID_ST_49,N-A,Referral,2012-03-27,Closed with relief,VERDADERO
+2012-05-24,ID_ISS_14,ID_COM_02,ID_ST_44,N-A,Web,2012-05-29,Closed with monetary relief,VERDADERO
+2012-04-10,ID_ISS_23,ID_COM_02,ID_ST_34,N-A,Phone,2012-04-11,Closed without relief,VERDADERO
+2012-03-04,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Web,2012-03-05,Closed without relief,VERDADERO
+2017-02-01,ID_ISS_07,ID_COM_02,ID_ST_27,N-A,Postal mail,2017-02-06,Closed with monetary relief,VERDADERO
+2012-05-24,ID_ISS_30,ID_COM_02,ID_ST_03,N-A,Web,2012-05-24,Closed with relief,VERDADERO
+2012-03-04,ID_ISS_17,ID_COM_02,ID_ST_03,N-A,Web,2012-03-05,Closed with relief,VERDADERO
+2012-03-04,ID_ISS_13,ID_COM_02,ID_ST_46,N-A,Web,2012-03-05,Closed with relief,FALSO
+2012-04-23,ID_ISS_08,ID_COM_02,ID_ST_19,N-A,Web,2012-04-23,Closed without relief,FALSO
+2012-04-23,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Web,2012-04-25,Closed with relief,VERDADERO
+2012-03-26,ID_ISS_30,ID_COM_02,ID_ST_38,N-A,Referral,2012-03-27,Closed without relief,VERDADERO
+2011-12-07,ID_ISS_17,ID_COM_02,ID_ST_39,N-A,Referral,2011-12-07,Closed with relief,VERDADERO
+2013-12-17,ID_ISS_30,ID_COM_02,ID_ST_02,N-A,Web,2013-12-16,Closed with explanation,VERDADERO
+2012-04-23,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Phone,2012-04-24,Closed without relief,VERDADERO
+2012-04-10,ID_ISS_11,ID_COM_02,ID_ST_38,N-A,Web,2012-04-11,Closed without relief,VERDADERO
+2012-03-13,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Web,2012-03-14,Closed without relief,VERDADERO
+2012-04-10,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Phone,2012-04-11,Closed without relief,VERDADERO
+2011-12-07,ID_ISS_15,ID_COM_02,ID_ST_08,N-A,Web,2011-12-09,Closed with relief,VERDADERO
+2011-12-07,ID_ISS_07,ID_COM_02,ID_ST_36,N-A,Phone,2011-12-12,Closed with relief,VERDADERO
+2012-03-24,ID_ISS_10,ID_COM_02,ID_ST_18,N-A,Web,2012-03-26,Closed with relief,VERDADERO
+2013-07-25,ID_ISS_01,ID_COM_02,ID_ST_19,N-A,Phone,2013-07-29,Closed with explanation,VERDADERO
+2011-12-08,ID_ISS_02,ID_COM_02,ID_ST_41,N-A,Web,2011-12-08,Closed with relief,VERDADERO
+2012-06-05,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-07-17,Closed with explanation,VERDADERO
+2012-02-15,ID_ISS_04,ID_COM_02,ID_ST_44,N-A,Web,2012-02-16,Closed with relief,VERDADERO
+2012-05-25,ID_ISS_15,ID_COM_02,ID_ST_46,N-A,Web,2012-05-29,Closed with explanation,VERDADERO
+2012-04-24,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-04-24,Closed without relief,VERDADERO
+2012-03-25,ID_ISS_14,ID_COM_02,ID_ST_08,N-A,Web,2012-03-26,Closed with relief,VERDADERO
+2012-03-14,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-14,Closed without relief,VERDADERO
+2012-01-31,ID_ISS_14,ID_COM_02,ID_ST_08,N-A,Referral,2012-01-31,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_22,ID_COM_02,ID_ST_35,N-A,Referral,2011-12-14,Closed with relief,FALSO
+2012-05-08,ID_ISS_20,ID_COM_02,ID_ST_20,N-A,Phone,2012-05-09,Closed with relief,VERDADERO
+2012-05-07,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Web,2012-05-10,Closed without relief,VERDADERO
+2012-03-23,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Web,2012-03-26,Closed without relief,VERDADERO
+2016-04-28,ID_ISS_07,ID_COM_02,ID_ST_03,Consent not provided,Web,2016-04-28,Closed with explanation,VERDADERO
+2012-03-25,ID_ISS_12,ID_COM_02,ID_ST_35,N-A,Referral,2012-08-22,Closed with non-monetary relief,VERDADERO
+2012-04-18,ID_ISS_02,ID_COM_02,ID_ST_22,N-A,Web,2012-04-19,Closed without relief,VERDADERO
+2013-12-05,ID_ISS_08,ID_COM_02,ID_ST_19,N-A,Phone,2013-12-05,Closed with monetary relief,VERDADERO
+2012-05-25,ID_ISS_08,ID_COM_02,ID_ST_35,N-A,Web,2012-05-29,Closed with monetary relief,VERDADERO
+2012-01-27,ID_ISS_31,ID_COM_02,ID_ST_06,N-A,Web,2012-01-30,Closed without relief,VERDADERO
+2013-11-27,ID_ISS_22,ID_COM_02,ID_ST_32,N-A,Web,2013-12-09,Closed with monetary relief,VERDADERO
+2012-04-24,ID_ISS_17,ID_COM_02,ID_ST_03,N-A,Web,2012-04-26,Untimely response,FALSO
+2012-03-25,ID_ISS_14,ID_COM_02,ID_ST_35,N-A,Web,2012-03-26,Closed with relief,VERDADERO
+2012-01-07,ID_ISS_02,ID_COM_02,ID_ST_16,N-A,Web,2012-01-09,Closed with relief,VERDADERO
+2012-01-07,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Web,2012-01-09,Closed without relief,VERDADERO
+2012-02-15,ID_ISS_02,ID_COM_02,ID_ST_48,N-A,Web,2012-02-16,Closed without relief,VERDADERO
+2012-04-30,ID_ISS_02,ID_COM_02,ID_ST_08,N-A,Referral,2012-05-15,Closed without relief,VERDADERO
+2012-05-07,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Phone,2012-05-08,Closed without relief,VERDADERO
+2012-04-24,ID_ISS_14,ID_COM_02,ID_ST_48,N-A,Web,2012-04-25,Closed with relief,VERDADERO
+2013-11-15,ID_ISS_23,ID_COM_02,ID_ST_02,N-A,Phone,2013-11-18,Closed with non-monetary relief,VERDADERO
+2012-01-27,ID_ISS_24,ID_COM_02,ID_ST_07,N-A,Phone,2012-02-21,Closed without relief,VERDADERO
+2012-03-14,ID_ISS_12,ID_COM_02,ID_ST_38,N-A,Web,2012-03-15,Closed with relief,VERDADERO
+2012-06-05,ID_ISS_07,ID_COM_02,ID_ST_48,N-A,Referral,2012-06-13,Closed with non-monetary relief,VERDADERO
+2012-04-24,ID_ISS_14,ID_COM_02,ID_ST_34,N-A,Web,2012-04-24,Closed without relief,VERDADERO
+2011-12-09,ID_ISS_24,ID_COM_02,ID_ST_19,N-A,Web,2011-12-12,Closed with relief,VERDADERO
+2012-01-08,ID_ISS_25,ID_COM_02,ID_ST_31,N-A,Web,2012-01-10,Closed without relief,VERDADERO
+2012-03-07,ID_ISS_17,ID_COM_02,ID_ST_20,N-A,Referral,2012-03-15,Closed without relief,VERDADERO
+2011-12-09,ID_ISS_12,ID_COM_02,ID_ST_33,N-A,Phone,2012-02-23,Closed with relief,VERDADERO
+2011-12-09,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Web,2011-12-12,Closed with relief,VERDADERO
+2012-03-06,ID_ISS_20,ID_COM_02,ID_ST_31,N-A,Referral,2012-03-06,Closed without relief,VERDADERO
+2012-02-16,ID_ISS_12,ID_COM_02,ID_ST_04,N-A,Web,2012-02-21,Closed without relief,VERDADERO
+2012-05-08,ID_ISS_02,ID_COM_02,ID_ST_43,N-A,Referral,2012-05-14,Closed without relief,VERDADERO
+2012-04-25,ID_ISS_21,ID_COM_02,ID_ST_24,N-A,Referral,2012-04-25,Closed without relief,VERDADERO
+2012-02-17,ID_ISS_13,ID_COM_02,ID_ST_19,N-A,Phone,2012-02-21,Closed without relief,VERDADERO
+2012-05-08,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-14,Closed with relief,VERDADERO
+2011-12-10,ID_ISS_13,ID_COM_02,ID_ST_37,N-A,Web,2011-12-12,Closed with relief,VERDADERO
+2012-03-06,ID_ISS_13,ID_COM_02,ID_ST_41,N-A,Referral,2012-03-06,Closed without relief,VERDADERO
+2013-12-31,ID_ISS_23,ID_COM_02,ID_ST_20,N-A,Web,2013-12-30,Closed with non-monetary relief,VERDADERO
+2012-03-15,ID_ISS_13,ID_COM_02,ID_ST_34,N-A,Phone,2012-03-16,Closed without relief,VERDADERO
+2012-01-26,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Referral,2012-02-02,Closed without relief,VERDADERO
+2012-02-16,ID_ISS_14,ID_COM_02,ID_ST_34,N-A,Web,2012-02-21,Closed with relief,VERDADERO
+2012-01-30,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-01-30,Closed with relief,VERDADERO
+2012-03-21,ID_ISS_14,ID_COM_02,ID_ST_03,N-A,Web,2012-03-22,Closed without relief,VERDADERO
+2011-12-23,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Referral,2011-12-22,Closed with relief,VERDADERO
+2012-01-30,ID_ISS_11,ID_COM_02,ID_ST_05,N-A,Web,2012-01-31,Closed without relief,VERDADERO
+2013-12-23,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Fax,2013-12-31,Closed with explanation,VERDADERO
+2012-05-30,ID_ISS_11,ID_COM_02,ID_ST_27,N-A,Referral,2012-06-04,Closed with explanation,VERDADERO
+2012-03-06,ID_ISS_24,ID_COM_02,ID_ST_44,N-A,Web,2012-03-06,Closed with relief,VERDADERO
+2012-04-25,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Web,2012-04-25,Closed without relief,VERDADERO
+2013-12-31,ID_ISS_19,ID_COM_02,ID_ST_08,N-A,Referral,2014-01-13,Closed with explanation,VERDADERO
+2012-05-22,ID_ISS_02,ID_COM_02,ID_ST_37,N-A,Referral,2012-05-24,Closed with explanation,VERDADERO
+2012-03-27,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Referral,2012-03-27,Closed with relief,VERDADERO
+2012-04-13,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Postal mail,2012-04-23,Closed without relief,VERDADERO
+2012-03-06,ID_ISS_14,ID_COM_02,ID_ST_45,N-A,Web,2012-03-06,Closed with relief,VERDADERO
+2012-04-25,ID_ISS_10,ID_COM_02,ID_ST_03,N-A,Web,2012-05-07,Closed with relief,VERDADERO
+2012-04-11,ID_ISS_02,ID_COM_02,ID_ST_24,N-A,Web,2012-04-12,Closed with relief,VERDADERO
+2012-05-30,ID_ISS_23,ID_COM_02,ID_ST_31,N-A,Web,2012-06-04,Closed with monetary relief,VERDADERO
+2012-05-30,ID_ISS_24,ID_COM_02,ID_ST_20,N-A,Web,2012-06-04,Closed with monetary relief,VERDADERO
+2012-06-06,ID_ISS_11,ID_COM_02,ID_ST_18,N-A,Referral,2012-06-15,Closed with explanation,VERDADERO
+2013-12-31,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Web,2013-12-31,Closed with non-monetary relief,VERDADERO
+2013-12-31,ID_ISS_18,ID_COM_02,ID_ST_33,N-A,Web,2014-01-06,Closed with non-monetary relief,VERDADERO
+2011-12-12,ID_ISS_08,ID_COM_02,ID_ST_46,N-A,Web,2011-12-16,Closed without relief,VERDADERO
+2012-04-26,ID_ISS_15,ID_COM_02,ID_ST_23,N-A,Referral,2012-04-26,Closed with relief,VERDADERO
+2012-04-12,ID_ISS_11,ID_COM_02,ID_ST_27,N-A,Web,2012-04-13,Closed without relief,VERDADERO
+2011-12-06,ID_ISS_22,ID_COM_02,ID_ST_09,N-A,Referral,2011-12-13,Closed with relief,VERDADERO
+2012-03-26,ID_ISS_11,ID_COM_02,ID_ST_19,N-A,Web,2012-03-28,Closed without relief,VERDADERO
+2012-05-30,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-30,Closed with monetary relief,VERDADERO
+2012-04-26,ID_ISS_15,ID_COM_02,ID_ST_08,N-A,Referral,2012-04-26,Closed without relief,VERDADERO
+2012-02-13,ID_ISS_14,ID_COM_02,ID_ST_34,N-A,Referral,2012-02-13,Closed with relief,FALSO
+2012-01-31,ID_ISS_18,ID_COM_02,ID_ST_22,N-A,Referral,2012-01-31,Closed without relief,VERDADERO
+2013-12-17,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Phone,2014-01-03,Closed with monetary relief,VERDADERO
+2012-02-16,ID_ISS_28,ID_COM_02,ID_ST_24,N-A,Web,2012-02-17,Closed with relief,VERDADERO
+2012-04-26,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-04-30,Closed without relief,VERDADERO
+2012-02-07,ID_ISS_13,ID_COM_02,ID_ST_30,N-A,Phone,2012-02-09,Closed without relief,VERDADERO
+2012-03-17,ID_ISS_22,ID_COM_02,ID_ST_14,N-A,Web,2012-04-23,Closed with relief,FALSO
+2012-01-31,ID_ISS_07,ID_COM_07,ID_ST_47,N-A,Web,2012-02-01,Closed with explanation,VERDADERO
+2012-01-31,ID_ISS_28,ID_COM_02,ID_ST_34,N-A,Web,2012-02-01,Untimely response,FALSO
+2012-02-17,ID_ISS_16,ID_COM_02,ID_ST_44,N-A,Web,2012-02-22,Closed without relief,VERDADERO
+2012-03-28,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-28,Closed without relief,VERDADERO
+2012-05-30,ID_ISS_16,ID_COM_02,ID_ST_08,N-A,Referral,2012-06-07,Closed with non-monetary relief,VERDADERO
+2012-01-11,ID_ISS_08,ID_COM_02,ID_ST_07,N-A,Web,2012-02-03,Closed without relief,VERDADERO
+2014-01-01,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Web,2014-01-07,Closed with explanation,VERDADERO
+2012-06-06,ID_ISS_22,ID_COM_02,ID_ST_51,N-A,Web,2012-06-06,Closed with monetary relief,VERDADERO
+2012-04-12,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Referral,2012-04-12,Closed with relief,VERDADERO
+2012-03-06,ID_ISS_02,ID_COM_02,ID_ST_50,N-A,Web,2012-03-07,Closed without relief,VERDADERO
+2011-12-13,ID_ISS_07,ID_COM_02,ID_ST_06,N-A,Web,2011-12-19,Closed with relief,VERDADERO
+2014-01-01,ID_ISS_19,ID_COM_02,ID_ST_08,N-A,Web,2013-12-31,Closed with monetary relief,VERDADERO
+2012-02-19,ID_ISS_31,ID_COM_02,ID_ST_14,N-A,Web,2012-02-21,Closed without relief,VERDADERO
+2012-03-28,ID_ISS_08,ID_COM_02,ID_ST_14,N-A,Web,2012-03-29,Closed with relief,VERDADERO
+2012-01-11,ID_ISS_12,ID_COM_02,ID_ST_35,N-A,Web,2012-01-11,Closed without relief,VERDADERO
+2011-12-13,ID_ISS_14,ID_COM_02,ID_ST_05,N-A,Web,2011-12-19,Closed with relief,VERDADERO
+2012-05-10,ID_ISS_15,ID_COM_02,ID_ST_00,N-A,Referral,2012-05-10,Closed without relief,VERDADERO
+2012-03-19,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Referral,2012-03-19,Closed with relief,VERDADERO
+2012-01-31,ID_ISS_24,ID_COM_02,ID_ST_06,N-A,Web,2012-02-01,Closed with relief,VERDADERO
+2012-03-27,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Web,2012-03-28,Closed without relief,VERDADERO
+2012-02-21,ID_ISS_12,ID_COM_02,ID_ST_03,N-A,Referral,2012-02-21,Closed without relief,VERDADERO
+2012-03-07,ID_ISS_23,ID_COM_02,ID_ST_34,N-A,Referral,2012-03-13,Closed with relief,VERDADERO
+2012-06-06,ID_ISS_22,ID_COM_02,ID_ST_31,N-A,Phone,2012-06-07,Closed with monetary relief,VERDADERO
+2012-01-11,ID_ISS_12,ID_COM_02,ID_ST_08,N-A,Phone,2012-01-12,Closed without relief,VERDADERO
+2013-08-21,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Web,2013-09-11,Closed with monetary relief,VERDADERO
+2012-02-21,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-02-23,Closed without relief,VERDADERO
+2013-11-29,ID_ISS_18,ID_COM_02,ID_ST_03,N-A,Web,2013-12-27,Closed with non-monetary relief,VERDADERO
+2012-01-11,ID_ISS_20,ID_COM_02,ID_ST_44,N-A,Web,2012-01-12,Closed without relief,VERDADERO
+2012-02-01,ID_ISS_15,ID_COM_02,ID_ST_38,N-A,Referral,2012-02-01,Closed without relief,VERDADERO
+2012-02-01,ID_ISS_16,ID_COM_02,ID_ST_44,N-A,Web,2012-02-02,Closed without relief,VERDADERO
+2012-05-08,ID_ISS_12,ID_COM_02,ID_ST_08,N-A,Web,2012-05-10,Closed without relief,VERDADERO
+2012-02-06,ID_ISS_00,ID_COM_02,ID_ST_03,N-A,Web,2012-02-07,Closed without relief,VERDADERO
+2011-12-14,ID_ISS_14,ID_COM_02,ID_ST_44,N-A,Web,2011-12-16,Closed without relief,VERDADERO
+2012-03-10,ID_ISS_07,ID_COM_02,ID_ST_18,N-A,Phone,2012-03-12,Closed without relief,VERDADERO
+2012-02-21,ID_ISS_04,ID_COM_02,ID_ST_34,N-A,Web,2012-02-22,Closed without relief,VERDADERO
+2012-03-07,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Web,2012-03-07,Closed with relief,VERDADERO
+2012-06-08,ID_ISS_01,ID_COM_02,ID_ST_38,N-A,Postal mail,2012-06-13,Closed with explanation,VERDADERO
+2012-05-14,ID_ISS_12,ID_COM_02,ID_ST_22,N-A,Referral,2012-05-15,Closed without relief,VERDADERO
+2011-12-15,ID_ISS_08,ID_COM_02,ID_ST_03,N-A,Web,2011-12-21,Closed without relief,VERDADERO
+2012-04-12,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Referral,2012-04-16,Closed with relief,VERDADERO
+2013-12-05,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Web,2013-12-05,Closed with explanation,VERDADERO
+2012-06-09,ID_ISS_02,ID_COM_02,ID_ST_15,N-A,Web,2012-06-18,Closed with explanation,VERDADERO
+2012-05-17,ID_ISS_16,ID_COM_02,ID_ST_23,N-A,Web,2012-05-18,Closed without relief,VERDADERO
+2012-04-13,ID_ISS_31,ID_COM_02,ID_ST_38,N-A,Web,2012-04-16,Closed without relief,FALSO
+2011-12-14,ID_ISS_00,ID_COM_02,ID_ST_14,N-A,Web,2011-12-21,Closed with relief,FALSO
+2013-11-29,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Phone,2013-12-02,Closed with explanation,VERDADERO
+2012-04-26,ID_ISS_07,ID_COM_02,ID_ST_27,N-A,Phone,2012-04-27,Closed without relief,VERDADERO
+2012-05-31,ID_ISS_07,ID_COM_02,ID_ST_13,N-A,Referral,2012-06-05,Closed with explanation,VERDADERO
+2013-08-14,ID_ISS_00,ID_COM_02,ID_ST_46,N-A,Web,2013-08-14,Closed with non-monetary relief,VERDADERO
+2012-05-18,ID_ISS_18,ID_COM_02,ID_ST_35,N-A,Referral,2012-05-22,Closed without relief,VERDADERO
+2012-06-07,ID_ISS_26,ID_COM_02,ID_ST_38,N-A,Referral,2012-06-19,Closed with monetary relief,VERDADERO
+2012-03-20,ID_ISS_22,ID_COM_02,ID_ST_37,N-A,Referral,2012-03-20,Closed with relief,VERDADERO
+2012-03-28,ID_ISS_31,ID_COM_02,ID_ST_31,N-A,Web,2012-03-29,Closed without relief,VERDADERO
+2011-12-15,ID_ISS_08,ID_COM_02,ID_ST_34,N-A,Referral,2011-12-15,Closed with relief,VERDADERO
+2012-04-27,ID_ISS_30,ID_COM_02,ID_ST_03,N-A,Referral,2012-04-27,Closed without relief,VERDADERO
+2012-04-27,ID_ISS_11,ID_COM_02,ID_ST_26,N-A,Postal mail,2012-04-30,Closed without relief,VERDADERO
+2012-05-11,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Phone,2012-05-15,Closed with relief,VERDADERO
+2014-01-08,ID_ISS_21,ID_COM_02,ID_ST_23,N-A,Referral,2014-01-09,Closed with explanation,VERDADERO
+2012-02-01,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Referral,2012-02-15,Closed without relief,VERDADERO
+2012-04-13,ID_ISS_04,ID_COM_02,ID_ST_23,N-A,Web,2012-04-17,Closed with relief,VERDADERO
+2013-12-18,ID_ISS_31,ID_COM_02,ID_ST_03,N-A,Web,2013-12-17,Closed with explanation,VERDADERO
+2012-05-31,ID_ISS_18,ID_COM_02,ID_ST_43,N-A,Referral,2012-06-02,Closed with explanation,VERDADERO
+2012-01-12,ID_ISS_20,ID_COM_02,ID_ST_27,N-A,Web,2012-01-12,Closed without relief,VERDADERO
+2012-03-29,ID_ISS_15,ID_COM_02,ID_ST_31,N-A,Web,2012-03-30,Closed without relief,VERDADERO
+2012-04-27,ID_ISS_16,ID_COM_02,ID_ST_20,N-A,Web,2012-04-30,Closed without relief,VERDADERO
+2012-03-07,ID_ISS_14,ID_COM_05,ID_ST_35,N-A,Web,2012-04-26,Closed without relief,VERDADERO
+2012-01-12,ID_ISS_13,ID_COM_02,ID_ST_40,N-A,Web,2012-01-12,Closed without relief,FALSO
+2012-03-30,ID_ISS_30,ID_COM_02,ID_ST_03,N-A,Email,2012-03-30,Closed with relief,VERDADERO
+2012-01-12,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Web,2012-01-12,Closed without relief,VERDADERO
+2012-04-14,ID_ISS_23,ID_COM_02,ID_ST_38,N-A,Web,2012-04-16,Closed without relief,VERDADERO
+2012-03-30,ID_ISS_11,ID_COM_02,ID_ST_49,N-A,Phone,2012-04-03,Closed without relief,VERDADERO
+2012-04-14,ID_ISS_18,ID_COM_02,ID_ST_21,N-A,Web,2012-04-17,Closed without relief,FALSO
+2012-01-13,ID_ISS_12,ID_COM_02,ID_ST_22,N-A,Web,2012-01-13,Closed without relief,VERDADERO
+2016-04-28,ID_ISS_14,ID_COM_02,ID_ST_44,Consent not provided,Web,2016-04-28,Closed with monetary relief,VERDADERO
+2011-12-18,ID_ISS_08,ID_COM_02,ID_ST_26,N-A,Web,2011-12-21,Untimely response,FALSO
+2012-04-14,ID_ISS_17,ID_COM_02,ID_ST_51,N-A,Web,2012-04-30,Closed without relief,VERDADERO
+2012-04-15,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2012-04-17,Closed with relief,VERDADERO
+2011-12-19,ID_ISS_22,ID_COM_02,ID_ST_41,N-A,Referral,2011-12-19,Closed with relief,VERDADERO
+2012-03-05,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Referral,2012-03-07,Closed without relief,VERDADERO
+2011-12-19,ID_ISS_21,ID_COM_02,ID_ST_44,N-A,Web,2011-12-21,Closed without relief,VERDADERO
+2012-04-30,ID_ISS_18,ID_COM_02,ID_ST_24,N-A,Web,2012-05-01,Closed with explanation,VERDADERO
+2012-06-09,ID_ISS_07,ID_COM_02,ID_ST_22,N-A,Web,2012-06-14,Closed with explanation,VERDADERO
+2012-03-30,ID_ISS_14,ID_COM_02,ID_ST_44,N-A,Web,2012-04-04,Closed without relief,VERDADERO
+2012-03-30,ID_ISS_26,ID_COM_02,ID_ST_43,N-A,Referral,2012-04-04,Closed without relief,VERDADERO
+2012-04-16,ID_ISS_30,ID_COM_02,ID_ST_38,N-A,Referral,2012-04-16,Closed with relief,VERDADERO
+2012-02-23,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Phone,2012-02-24,Closed without relief,VERDADERO
+2012-04-28,ID_ISS_08,ID_COM_02,ID_ST_03,N-A,Web,2012-04-30,Closed without relief,VERDADERO
+2012-05-14,ID_ISS_06,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-16,Closed without relief,VERDADERO
+2013-08-14,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Web,2013-08-14,Closed with explanation,VERDADERO
+2012-03-08,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Referral,2012-03-08,Closed without relief,FALSO
+2011-12-19,ID_ISS_21,ID_COM_02,ID_ST_22,N-A,Web,2011-12-21,Closed without relief,FALSO
+2012-03-21,ID_ISS_13,ID_COM_02,ID_ST_08,N-A,Web,2012-03-22,Closed without relief,VERDADERO
+2012-02-02,ID_ISS_30,ID_COM_02,ID_ST_34,N-A,Web,2012-02-03,Closed without relief,VERDADERO
+2012-05-31,ID_ISS_00,ID_COM_02,ID_ST_09,N-A,Web,2012-06-04,Closed,VERDADERO
+2013-12-18,ID_ISS_00,ID_COM_02,ID_ST_31,N-A,Referral,2013-12-27,Closed with explanation,VERDADERO
+2012-04-16,ID_ISS_25,ID_COM_02,ID_ST_34,N-A,Referral,2012-04-16,Closed with relief,VERDADERO
+2011-12-20,ID_ISS_16,ID_COM_02,ID_ST_38,N-A,Web,2011-12-20,Closed without relief,VERDADERO
+2012-03-31,ID_ISS_11,ID_COM_02,ID_ST_26,N-A,Web,2012-04-03,Closed with relief,VERDADERO
+2011-12-20,ID_ISS_24,ID_COM_02,ID_ST_03,N-A,Referral,2011-12-30,Closed with relief,VERDADERO
+2013-12-12,ID_ISS_07,ID_COM_02,ID_ST_17,N-A,Fax,2013-12-16,Closed with explanation,VERDADERO
+2011-12-20,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Referral,2011-12-20,Closed without relief,VERDADERO
+2012-03-08,ID_ISS_26,ID_COM_02,ID_ST_34,N-A,Web,2012-03-09,Closed without relief,VERDADERO
+2012-04-01,ID_ISS_26,ID_COM_02,ID_ST_48,N-A,Web,2012-04-03,Closed without relief,VERDADERO
+2012-03-08,ID_ISS_04,ID_COM_02,ID_ST_20,N-A,Web,2012-03-09,Closed with relief,VERDADERO
+2012-02-06,ID_ISS_18,ID_COM_02,ID_ST_09,N-A,Web,2012-02-07,Closed without relief,VERDADERO
+2016-05-13,ID_ISS_21,ID_COM_02,ID_ST_14,Consent provided,Web,2016-05-13,Closed with explanation,VERDADERO
+2012-05-19,ID_ISS_02,ID_COM_02,ID_ST_31,N-A,Referral,2012-05-30,Closed with explanation,VERDADERO
+2012-04-30,ID_ISS_18,ID_COM_02,ID_ST_34,N-A,Phone,2012-05-02,Closed without relief,VERDADERO
+2012-04-16,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Referral,2012-04-16,Closed without relief,VERDADERO
+2012-05-14,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Postal mail,2012-05-15,Closed with relief,VERDADERO
+2014-01-02,ID_ISS_24,ID_COM_02,ID_ST_03,N-A,Referral,2014-01-03,Closed with explanation,VERDADERO
+2012-02-24,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Referral,2012-02-24,Closed with relief,VERDADERO
+2012-02-05,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Web,2012-02-06,Closed with relief,VERDADERO
+2012-02-05,ID_ISS_14,ID_COM_02,ID_ST_44,N-A,Web,2012-02-06,Closed with relief,VERDADERO
+2012-04-16,ID_ISS_02,ID_COM_02,ID_ST_35,N-A,Web,2012-04-17,Closed without relief,VERDADERO
+2012-04-02,ID_ISS_07,ID_COM_02,ID_ST_09,N-A,Web,2012-04-03,Closed without relief,VERDADERO
+2012-06-09,ID_ISS_02,ID_COM_02,ID_ST_09,N-A,Web,2012-06-12,Closed with explanation,VERDADERO
+2012-01-16,ID_ISS_02,ID_COM_02,ID_ST_35,N-A,Web,2012-01-17,Closed without relief,VERDADERO
+2013-11-30,ID_ISS_19,ID_COM_02,ID_ST_33,N-A,Web,2013-12-05,Closed with non-monetary relief,VERDADERO
+2012-05-22,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Referral,2012-05-24,Closed with explanation,VERDADERO
+2012-03-09,ID_ISS_07,ID_COM_02,ID_ST_41,N-A,Phone,2012-03-09,Closed without relief,FALSO
+2012-01-17,ID_ISS_07,ID_COM_02,ID_ST_19,N-A,Web,2012-01-18,Closed without relief,VERDADERO
+2012-04-02,ID_ISS_07,ID_COM_02,ID_ST_05,N-A,Referral,2012-04-03,Closed without relief,VERDADERO
+2012-06-11,ID_ISS_13,ID_COM_02,ID_ST_18,N-A,Referral,2012-06-14,Closed with explanation,VERDADERO
+2012-02-25,ID_ISS_12,ID_COM_02,ID_ST_35,N-A,Web,2012-02-28,Closed without relief,VERDADERO
+2012-05-07,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-10,Closed with relief,VERDADERO
+2012-05-19,ID_ISS_23,ID_COM_02,ID_ST_19,N-A,Referral,2012-05-31,Closed with explanation,VERDADERO
+2012-04-03,ID_ISS_21,ID_COM_02,ID_ST_29,N-A,Referral,2012-04-03,Closed without relief,VERDADERO
+2014-01-13,ID_ISS_07,ID_COM_02,ID_ST_12,N-A,Web,2014-01-16,Closed with explanation,VERDADERO
+2012-05-22,ID_ISS_22,ID_COM_02,ID_ST_18,N-A,Web,2012-05-22,Closed with relief,VERDADERO
+2012-02-04,ID_ISS_08,ID_COM_02,ID_ST_35,N-A,Web,2012-02-23,Closed without relief,VERDADERO
+2012-10-17,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Referral,2012-10-23,Closed with explanation,VERDADERO
+2012-04-26,ID_ISS_17,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-03,Closed without relief,VERDADERO
+2011-12-21,ID_ISS_07,ID_COM_02,ID_ST_38,N-A,Web,2012-02-28,Closed with relief,VERDADERO
+2012-04-17,ID_ISS_16,ID_COM_02,ID_ST_14,N-A,Referral,2012-04-17,Closed without relief,VERDADERO
+2012-02-03,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Referral,2012-02-07,Closed with relief,VERDADERO
+2012-02-07,ID_ISS_17,ID_COM_02,ID_ST_04,N-A,Web,2012-02-08,Closed without relief,VERDADERO
+2014-01-08,ID_ISS_15,ID_COM_02,ID_ST_19,N-A,Web,2014-01-08,Closed with explanation,VERDADERO
+2012-04-17,ID_ISS_14,ID_COM_02,ID_ST_44,N-A,Web,2012-04-19,Closed without relief,VERDADERO
+2012-04-17,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Web,2012-04-17,Closed without relief,VERDADERO
+2012-01-06,ID_ISS_02,ID_COM_02,ID_ST_08,N-A,Web,2012-01-09,Closed without relief,VERDADERO
+2012-02-02,ID_ISS_30,ID_COM_02,ID_ST_31,N-A,Web,2012-02-08,Closed without relief,VERDADERO
+2012-02-07,ID_ISS_21,ID_COM_02,ID_ST_37,N-A,Referral,2012-02-07,Closed without relief,FALSO
+2012-05-08,ID_ISS_16,ID_COM_02,ID_ST_33,N-A,Web,2012-05-10,Closed without relief,VERDADERO
+2014-01-02,ID_ISS_14,ID_COM_02,ID_ST_15,N-A,Postal mail,2014-01-03,Closed with explanation,VERDADERO
+2012-04-03,ID_ISS_26,ID_COM_02,ID_ST_08,N-A,Web,2012-04-04,Closed with relief,VERDADERO
+2013-12-24,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Postal mail,2013-12-31,Closed with explanation,VERDADERO
+2012-06-01,ID_ISS_15,ID_COM_02,ID_ST_18,N-A,Referral,2012-07-25,Closed with explanation,VERDADERO
+2012-02-27,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Referral,2012-02-27,Closed with relief,VERDADERO
+2012-06-25,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Phone,2012-06-28,Closed with explanation,VERDADERO
+2012-02-27,ID_ISS_02,ID_COM_02,ID_ST_30,N-A,Referral,2012-02-27,Closed without relief,VERDADERO
+2012-01-18,ID_ISS_19,ID_COM_02,ID_ST_27,N-A,Web,2012-01-18,Closed without relief,VERDADERO
+2012-01-18,ID_ISS_13,ID_COM_02,ID_ST_03,N-A,Phone,2012-01-19,Closed without relief,VERDADERO
+2012-02-16,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Phone,2012-02-17,Closed without relief,VERDADERO
+2012-02-27,ID_ISS_13,ID_COM_02,ID_ST_33,N-A,Web,2012-02-27,Closed without relief,VERDADERO
+2011-12-22,ID_ISS_23,ID_COM_02,ID_ST_36,N-A,Web,2011-12-22,Closed with relief,FALSO
+2012-05-01,ID_ISS_31,ID_COM_02,ID_ST_14,N-A,Web,2012-05-01,Closed without relief,VERDADERO
+2012-05-15,ID_ISS_26,ID_COM_02,ID_ST_35,N-A,Referral,2012-05-17,Closed with relief,VERDADERO
+2012-04-17,ID_ISS_17,ID_COM_02,ID_ST_50,N-A,Referral,2012-04-17,Closed without relief,VERDADERO
+2012-03-10,ID_ISS_07,ID_COM_02,ID_ST_14,N-A,Referral,2012-03-12,Closed without relief,VERDADERO
+2012-06-20,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-03-10,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Postal mail,2012-03-12,Closed with relief,VERDADERO
+2012-04-18,ID_ISS_21,ID_COM_02,ID_ST_44,N-A,Referral,2012-04-18,Closed with relief,VERDADERO
+2012-01-18,ID_ISS_20,ID_COM_02,ID_ST_38,N-A,Web,2012-01-19,Closed with relief,VERDADERO
+2011-12-22,ID_ISS_28,ID_COM_02,ID_ST_19,N-A,Web,2011-12-22,Closed with relief,VERDADERO
+2013-12-02,ID_ISS_23,ID_COM_02,ID_ST_05,N-A,Web,2013-12-03,Closed with monetary relief,VERDADERO
+2012-06-01,ID_ISS_11,ID_COM_02,ID_ST_02,N-A,Web,2012-06-02,Closed with explanation,VERDADERO
+2012-04-18,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Referral,2012-04-18,Closed with relief,VERDADERO
+2012-03-11,ID_ISS_21,ID_COM_02,ID_ST_46,N-A,Referral,2012-03-15,Closed with relief,VERDADERO
+2012-06-01,ID_ISS_08,ID_COM_02,ID_ST_44,N-A,Web,2012-06-04,Closed with explanation,VERDADERO
+2012-03-23,ID_ISS_12,ID_COM_02,ID_ST_46,N-A,Referral,2012-04-02,Closed without relief,VERDADERO
+2012-05-15,ID_ISS_22,ID_COM_02,ID_ST_35,N-A,Referral,2012-05-17,Closed with relief,VERDADERO
+2012-04-18,ID_ISS_18,ID_COM_02,ID_ST_14,N-A,Referral,2012-04-18,Closed without relief,VERDADERO
+2012-02-26,ID_ISS_30,ID_COM_02,ID_ST_08,N-A,Referral,2012-02-27,Closed without relief,VERDADERO
+2013-12-12,ID_ISS_22,ID_COM_02,ID_ST_08,N-A,Web,2013-12-12,Closed with monetary relief,VERDADERO
+2012-02-27,ID_ISS_00,ID_COM_02,ID_ST_19,N-A,Web,2012-02-27,Closed without relief,VERDADERO
+2012-05-15,ID_ISS_26,ID_COM_02,ID_ST_00,N-A,Web,2012-05-16,Closed without relief,VERDADERO
+2012-05-20,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Referral,2012-06-04,Closed with explanation,VERDADERO
+2012-05-02,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Referral,2012-05-02,Closed without relief,VERDADERO
+2013-12-24,ID_ISS_24,ID_COM_02,ID_ST_03,N-A,Referral,2014-01-06,Closed with monetary relief,VERDADERO
+2011-12-01,ID_ISS_07,ID_COM_02,ID_ST_43,N-A,Referral,2011-12-01,Closed with relief,VERDADERO
+2012-04-04,ID_ISS_20,ID_COM_02,ID_ST_08,N-A,Web,2012-04-06,Closed without relief,VERDADERO
+2012-03-10,ID_ISS_07,ID_COM_02,ID_ST_35,N-A,Web,2012-03-12,Closed without relief,VERDADERO
+2012-02-16,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2012-02-16,Closed with relief,VERDADERO
+2012-02-29,ID_ISS_02,ID_COM_02,ID_ST_35,N-A,Phone,2012-03-01,Closed without relief,VERDADERO
+2011-12-24,ID_ISS_00,ID_COM_02,ID_ST_03,N-A,Web,2011-12-27,Closed without relief,VERDADERO
+2012-05-15,ID_ISS_07,ID_COM_02,ID_ST_39,N-A,Postal mail,2012-05-24,Closed without relief,VERDADERO
+2011-12-26,ID_ISS_15,ID_COM_02,ID_ST_21,N-A,Web,2011-12-27,Closed with relief,VERDADERO
+2012-02-08,ID_ISS_17,ID_COM_02,ID_ST_12,N-A,Web,2012-02-10,Closed without relief,VERDADERO
+2012-02-28,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Phone,2012-02-29,Closed without relief,VERDADERO
+2012-02-28,ID_ISS_06,ID_COM_02,ID_ST_20,N-A,Referral,2012-02-28,Closed without relief,VERDADERO
+2012-02-08,ID_ISS_02,ID_COM_02,ID_ST_19,N-A,Referral,2012-02-09,Closed without relief,VERDADERO
+2012-05-19,ID_ISS_19,ID_COM_02,ID_ST_46,N-A,Web,2012-05-22,Closed without relief,VERDADERO
+2016-04-28,ID_ISS_26,ID_COM_02,ID_ST_07,Consent not provided,Web,2016-04-28,Closed with explanation,VERDADERO
+2012-03-05,ID_ISS_11,ID_COM_02,ID_ST_38,N-A,Referral,2012-03-06,Closed with relief,VERDADERO
+2013-12-02,ID_ISS_26,ID_COM_02,ID_ST_31,N-A,Web,2013-12-02,Closed with explanation,VERDADERO
+2011-12-27,ID_ISS_21,ID_COM_05,ID_ST_35,N-A,Phone,2012-04-23,Closed with relief,VERDADERO
+2012-02-08,ID_ISS_16,ID_COM_02,ID_ST_34,N-A,Web,2012-02-08,Untimely response,FALSO
+2012-04-02,ID_ISS_15,ID_COM_02,ID_ST_34,N-A,Referral,2012-04-23,Closed without relief,VERDADERO
+2012-04-19,ID_ISS_11,ID_COM_02,ID_ST_30,N-A,Referral,2012-04-19,Closed without relief,VERDADERO
+2012-02-08,ID_ISS_21,ID_COM_02,ID_ST_20,N-A,Web,2012-02-09,Closed without relief,VERDADERO
+2012-01-22,ID_ISS_23,ID_COM_01,ID_ST_39,N-A,Referral,2012-06-20,Closed with explanation,VERDADERO
+2012-02-09,ID_ISS_16,ID_COM_02,ID_ST_44,N-A,Phone,2012-02-10,Closed with relief,VERDADERO
+2012-01-11,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-01-11,Closed with relief,VERDADERO
+2012-02-09,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Referral,2012-02-09,Closed without relief,VERDADERO
+2012-04-02,ID_ISS_01,ID_COM_02,ID_ST_08,N-A,Referral,2012-04-18,Closed without relief,VERDADERO
+2012-05-03,ID_ISS_07,ID_COM_02,ID_ST_39,N-A,Referral,2012-05-08,Closed without relief,FALSO
+2012-01-22,ID_ISS_02,ID_COM_02,ID_ST_46,N-A,Referral,2012-01-23,Closed with relief,VERDADERO
+2011-12-29,ID_ISS_21,ID_COM_02,ID_ST_44,N-A,Referral,2011-12-29,Closed without relief,VERDADERO
+2012-04-18,ID_ISS_19,ID_COM_02,ID_ST_34,N-A,Web,2012-04-18,Closed without relief,VERDADERO
+2012-06-20,ID_ISS_00,ID_COM_02,ID_ST_19,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2014-01-03,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Referral,2014-01-08,Closed with monetary relief,VERDADERO
+2012-01-23,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Web,2012-02-22,Closed without relief,VERDADERO
+2012-02-29,ID_ISS_17,ID_COM_02,ID_ST_09,N-A,Web,2012-03-02,Closed without relief,VERDADERO
+2013-12-18,ID_ISS_24,ID_COM_02,ID_ST_31,N-A,Referral,2013-12-20,Closed with monetary relief,VERDADERO
+2012-05-21,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Referral,2012-06-01,Closed with monetary relief,VERDADERO
+2012-01-25,ID_ISS_30,ID_COM_02,ID_ST_20,N-A,Web,2012-01-26,Closed without relief,VERDADERO
+2012-06-20,ID_ISS_24,ID_COM_02,ID_ST_08,N-A,Postal mail,2012-06-28,Closed with explanation,VERDADERO
+2012-06-12,ID_ISS_14,ID_COM_02,ID_ST_31,N-A,Postal mail,2012-06-18,Closed with explanation,VERDADERO
+2014-01-09,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Phone,2014-01-09,Closed with explanation,VERDADERO
+2012-06-20,ID_ISS_08,ID_COM_02,ID_ST_34,N-A,Web,2012-06-21,Closed with monetary relief,VERDADERO
+2012-06-12,ID_ISS_01,ID_COM_02,ID_ST_44,N-A,Web,2012-06-15,Closed with monetary relief,VERDADERO
+2012-06-20,ID_ISS_24,ID_COM_02,ID_ST_08,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-20,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-20,ID_ISS_26,ID_COM_02,ID_ST_22,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-20,ID_ISS_07,ID_COM_02,ID_ST_48,N-A,Web,2012-06-21,Closed,VERDADERO
+2012-06-12,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Web,2012-06-14,Closed with explanation,VERDADERO
+2012-06-20,ID_ISS_26,ID_COM_02,ID_ST_43,N-A,Postal mail,2012-06-26,Closed with monetary relief,VERDADERO
+2012-06-20,ID_ISS_00,ID_COM_02,ID_ST_22,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-12,ID_ISS_02,ID_COM_02,ID_ST_34,N-A,Web,2012-06-15,Closed with non-monetary relief,VERDADERO
+2012-06-12,ID_ISS_19,ID_COM_02,ID_ST_36,N-A,Web,2012-06-15,Closed with explanation,VERDADERO
+2012-07-03,ID_ISS_04,ID_COM_02,ID_ST_14,N-A,Web,2012-07-06,Closed with monetary relief,VERDADERO
+2012-06-20,ID_ISS_11,ID_COM_02,ID_ST_08,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-07-04,ID_ISS_23,ID_COM_02,ID_ST_20,N-A,Web,2012-07-06,Closed with monetary relief,VERDADERO
+2012-06-20,ID_ISS_16,ID_COM_02,ID_ST_03,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-13,ID_ISS_18,ID_COM_02,ID_ST_31,N-A,Postal mail,2012-06-19,Closed with monetary relief,VERDADERO
+2013-07-26,ID_ISS_01,ID_COM_02,ID_ST_24,N-A,Referral,2013-07-29,Closed with explanation,VERDADERO
+2012-07-03,ID_ISS_23,ID_COM_02,ID_ST_08,N-A,Web,2012-10-25,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Email,2012-06-21,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_02,ID_COM_02,ID_ST_38,N-A,Web,2012-06-21,Closed with explanation,VERDADERO
+2012-06-13,ID_ISS_23,ID_COM_02,ID_ST_19,N-A,Web,2012-06-22,Closed with explanation,VERDADERO
+2012-07-02,ID_ISS_18,ID_COM_02,ID_ST_44,N-A,Web,2012-08-01,Closed with monetary relief,VERDADERO
+2012-06-13,ID_ISS_15,ID_COM_02,ID_ST_20,N-A,Referral,2012-06-18,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_06,ID_COM_02,ID_ST_34,N-A,Referral,2012-07-03,Closed with monetary relief,VERDADERO
+2014-01-03,ID_ISS_08,ID_COM_02,ID_ST_31,N-A,Referral,2014-01-06,Closed with monetary relief,VERDADERO
+2012-07-03,ID_ISS_07,ID_COM_02,ID_ST_08,N-A,Web,2012-07-06,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_17,ID_COM_02,ID_ST_44,N-A,Web,2012-06-22,Closed with non-monetary relief,VERDADERO
+2012-07-05,ID_ISS_13,ID_COM_02,ID_ST_04,N-A,Phone,2012-07-12,Closed with explanation,VERDADERO
+2012-06-14,ID_ISS_02,ID_COM_02,ID_ST_03,N-A,Web,2012-06-15,Closed with non-monetary relief,VERDADERO
+2012-07-05,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Referral,2012-07-09,Closed with explanation,VERDADERO
+2012-08-07,ID_ISS_19,ID_COM_02,ID_ST_22,N-A,Web,2012-08-08,Closed with explanation,VERDADERO
+2012-06-14,ID_ISS_15,ID_COM_02,ID_ST_21,N-A,Web,2012-06-20,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_23,ID_COM_02,ID_ST_44,N-A,Web,2012-06-22,Closed with explanation,VERDADERO
+2012-06-21,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2012-06-27,Closed with non-monetary relief,VERDADERO
+2012-08-06,ID_ISS_23,ID_COM_02,ID_ST_20,N-A,Postal mail,2012-08-07,Closed with monetary relief,VERDADERO
+2012-07-05,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Web,2012-07-06,Closed with explanation,VERDADERO
+2012-06-14,ID_ISS_07,ID_COM_02,ID_ST_20,N-A,Referral,2012-06-20,Closed with explanation,VERDADERO
+2012-08-27,ID_ISS_22,ID_COM_02,ID_ST_34,N-A,Phone,2012-08-28,Closed with monetary relief,VERDADERO
+2012-07-24,ID_ISS_13,ID_COM_02,ID_ST_34,N-A,Phone,2012-07-25,Closed with explanation,VERDADERO
+2013-12-19,ID_ISS_07,ID_COM_02,ID_ST_03,N-A,Referral,2013-12-30,Closed with monetary relief,VERDADERO
+2012-07-13,ID_ISS_07,ID_COM_02,ID_ST_38,N-A,Web,2012-07-18,Closed with monetary relief,VERDADERO
+2012-10-17,ID_ISS_14,ID_COM_02,ID_ST_11,N-A,Web,2012-10-17,Closed with explanation,VERDADERO
+2012-06-22,ID_ISS_17,ID_COM_02,ID_ST_34,N-A,Referral,2012-06-26,Closed with monetary relief,VERDADERO
+2013-12-12,ID_ISS_11,ID_COM_02,ID_ST_14,N-A,Web,2013-12-12,Closed with explanation,VERDADERO
+2012-07-25,ID_ISS_11,ID_COM_02,ID_ST_22,N-A,Web,2012-08-16,Closed with explanation,VERDADERO
+2012-11-08,ID_ISS_11,ID_COM_02,ID_ST_19,N-A,Web,2012-11-13,Closed with explanation,VERDADERO
+2012-08-03,ID_ISS_17,ID_COM_02,ID_ST_04,N-A,Phone,2012-08-08,Closed with non-monetary relief,VERDADERO
+2012-10-01,ID_ISS_07,ID_COM_02,ID_ST_34,N-A,Postal mail,2012-10-02,Closed with explanation,VERDADERO
+2012-07-25,ID_ISS_02,ID_COM_02,ID_ST_18,N-A,Web,2012-07-25,Closed with explanation,VERDADERO
+2012-07-24,ID_ISS_24,ID_COM_02,ID_ST_03,N-A,Referral,2012-07-30,Closed with monetary relief,VERDADERO
+2012-06-23,ID_ISS_07,ID_COM_02,ID_ST_27,N-A,Web,2012-06-28,Closed with monetary relief,VERDADERO
+2014-01-09,ID_ISS_19,ID_COM_02,ID_ST_44,N-A,Web,2014-01-09,Closed with explanation,VERDADERO
+2012-09-10,ID_ISS_22,ID_COM_02,ID_ST_23,N-A,Web,2012-09-11,Closed with non-monetary relief,VERDADERO
+2012-08-27,ID_ISS_17,ID_COM_02,ID_ST_34,N-A,Web,2012-08-30,Closed with explanation,VERDADERO
+2012-07-14,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Web,2012-07-17,Closed with monetary relief,VERDADERO
+2012-09-21,ID_ISS_08,ID_COM_02,ID_ST_08,N-A,Referral,2012-09-24,Closed with monetary relief,VERDADERO
+2012-10-28,ID_ISS_21,ID_COM_02,ID_ST_09,N-A,Web,2012-11-01,Closed with explanation,VERDADERO
+2012-09-07,ID_ISS_24,ID_COM_02,ID_ST_48,N-A,Web,2012-09-10,Closed with monetary relief,VERDADERO
+2012-08-27,ID_ISS_11,ID_COM_02,ID_ST_14,N-A,Web,2012-08-28,Closed with non-monetary relief,VERDADERO
+2012-11-22,ID_ISS_17,ID_COM_02,ID_ST_14,N-A,Web,2012-11-26,Closed with non-monetary relief,VERDADERO
+2012-07-16,ID_ISS_24,ID_COM_08,ID_ST_31,N-A,Web,2012-07-17,Closed with monetary relief,VERDADERO
+2012-06-22,ID_ISS_24,ID_COM_02,ID_ST_02,N-A,Web,2012-06-28,Closed with monetary relief,VERDADERO
+2012-07-06,ID_ISS_14,ID_COM_02,ID_ST_19,N-A,Web,2012-07-10,Closed with explanation,VERDADERO
+2012-09-10,ID_ISS_07,ID_COM_02,ID_ST_44,N-A,Referral,2012-09-11,Closed with monetary relief,VERDADERO
+2012-09-10,ID_ISS_22,ID_COM_02,ID_ST_03,N-A,Phone,2012-09-12,Closed with monetary relief,VERDADERO
+2012-07-25,ID_ISS_14,ID_COM_02,ID_ST_38,N-A,Web,2012-08-02,Closed with monetary relief,VERDADERO
+2012-10-04,ID_ISS_07,ID_COM_02,ID_ST_15,N-A,Phone,2012-10-10,Closed with explanation,VERDADERO
+2012-09-11,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Phone,2012-09-12,Closed with explanation,VERDADERO
+2012-08-15,ID_ISS_26,ID_COM_02,ID_ST_18,N-A,Referral,2012-08-16,Closed with explanation,VERDADERO
+2012-08-28,ID_ISS_21,ID_COM_02,ID_ST_35,N-A,Phone,2012-09-04,Closed with non-monetary relief,VERDADERO
+2012-11-08,ID_ISS_14,ID_COM_02,ID_ST_03,N-A,Web,2012-11-09,Closed with explanation,VERDADERO
+2012-07-16,ID_ISS_11,ID_COM_02,ID_ST_15,N-A,Referral,2012-07-19,Closed with explanation,VERDADERO
+2012-10-17,ID_ISS_16,ID_COM_02,ID_ST_33,N-A,Web,2012-10-22,Closed with explanation,VERDADERO
+2012-10-16,ID_ISS_16,ID_COM_02,ID_ST_38,N-A,Referral,2012-10-18,Closed with explanation,VERDADERO
+2012-10-16,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Web,2012-10-17,Closed with monetary relief,VERDADERO
+2012-09-12,ID_ISS_07,ID_COM_01,ID_ST_31,N-A,Referral,2012-09-13,Closed with explanation,VERDADERO
+2014-01-14,ID_ISS_00,ID_COM_02,ID_ST_20,N-A,Phone,2014-01-17,Closed with non-monetary relief,VERDADERO
+2012-11-08,ID_ISS_26,ID_COM_02,ID_ST_02,N-A,Web,2012-11-08,Closed with explanation,VERDADERO
+2012-08-29,ID_ISS_30,ID_COM_02,ID_ST_47,N-A,Web,2012-08-30,Closed with monetary relief,VERDADERO
+2012-09-10,ID_ISS_14,ID_COM_02,ID_ST_05,N-A,Web,2012-09-11,Closed with explanation,VERDADERO
+2012-07-06,ID_ISS_15,ID_COM_02,ID_ST_03,N-A,Referral,2012-07-18,Closed with explanation,VERDADERO
+2012-08-06,ID_ISS_02,ID_COM_02,ID_ST_35,N-A,Referral,2012-08-09,Closed with explanation,VERDADERO
+2012-10-29,ID_ISS_07,ID_COM_02,ID_ST_02,N-A,Postal mail,2012-10-31,Closed with monetary relief,VERDADERO
+2012-07-09,ID_ISS_07,ID_COM_02,ID_ST_46,N-A,Referral,2012-07-11,Closed with monetary relief,VERDADERO
+2012-08-15,ID_ISS_02,ID_COM_02,ID_ST_02,N-A,Web,2012-10-25,Closed with monetary relief,VERDADERO
+2012-10-17,ID_ISS_18,ID_COM_02,ID_ST_22,N-A,Postal mail,2012-10-18,Closed with explanation,VERDADERO
+2012-08-28,ID_ISS_15,ID_COM_02,ID_ST_19,N-A,Web,2012-08-28,Closed with explanation,VERDADERO
+2012-10-17,ID_ISS_11,ID_COM_02,ID_ST_03,N-A,Postal mail,2012-10-18,Closed with explanation,VERDADERO
+2012-11-21,ID_ISS_21,ID_COM_02,ID_ST_34,N-A,Referral,2012-11-23,Closed with explanation,VERDADERO
+2012-09-24,ID_ISS_10,ID_COM_02,ID_ST_44,N-A,Fax,2012-09-24,Closed with explanation,VERDADERO
+2012-06-24,ID_ISS_18,ID_COM_02,ID_ST_03,N-A,Web,2012-06-27,Closed with monetary relief,VERDADERO
+2012-10-17,ID_ISS_11,ID_COM_02,ID_ST_09,N-A,Referral,2012-10-18,Closed with non-monetary relief,VERDADERO
+2012-08-28,ID_ISS_11,ID_COM_02,ID_ST_34,N-A,Referral,2012-09-04,Closed with explanation,VERDADERO
+2012-06-15,ID_ISS_11,ID_COM_02,ID_ST_14,N-A,Postal mail,2012-06-20,Closed with monetary relief,VERDADERO
+2012-06-24,ID_ISS_13,ID_COM_02,ID_ST_19,N-A,Web,2012-06-29,Closed with explanation,VERDADERO
+2012-09-11,ID_ISS_21,ID_COM_02,ID_ST_08,N-A,Referral,2012-09-12,Closed with non-monetary relief,VERDADERO
+2012-07-07,ID_ISS_24,ID_COM_02,ID_ST_35,N-A,Web,2012-07-11,Closed with explanation,VERDADERO
+2012-11-21,ID_ISS_17,ID_COM_02,ID_ST_41,N-A,Web,2012-11-27,Closed with explanation,VERDADERO
+2012-08-06,ID_ISS_13,ID_COM_02,ID_ST_03,N-A,Phone,2012-08-07,Closed with explanation,VERDADERO
+2012-10-17,ID_ISS_20,ID_COM_02,ID_ST_44,N-A,Referral,2012-10-19,Closed with explanation,VERDADERO
+2012-11-21,ID_ISS_07,ID_COM_02,ID_ST_01,N-A,Web,2012-11-21,Closed with explanation,VERDADERO
+2012-10-29,ID_ISS_23,ID_COM_02,ID_ST_03,N-A,Web,2012-10-30,Closed with explanation,VERDADERO
+2012-10-18,ID_ISS_07,ID_COM_02,ID_ST_31,N-A,Postal mail,2012-10-18,Closed with explanation,VERDADERO
+2012-06-22,ID_ISS_18,ID_COM_02,ID_ST_31,N-A,Web,2012-06-22,Closed with explanation,VERDADERO
+2012-07-08,ID_ISS_02,ID_COM_02,ID_ST_44,N-A,Web,2012-07-10,Closed with monetary relief,VERDADERO
+2012-09-12,ID_ISS_02,ID_COM_02,ID_ST_44,N-A,Referral,2012-09-12,Closed with explanation,VERDADERO
+2012-09-12,ID_ISS_21,ID_COM_02,ID_ST_03,N-A,Referral,2012-09-12,Closed with non-monetary relief,VERDADERO
+2012-11-21,ID_ISS_02,ID_COM_02,ID_ST_06,N-A,Web,2012-11-23,Closed with explanation,VERDADERO
+2016-11-30,ID_ISS_07,ID_COM_02,ID_ST_37,N-A,Postal mail,2016-12-01,Closed with monetary relief,VERDADERO
+2012-10-29,ID_ISS_15,ID_COM_02,ID_ST_34,N-A,Referral,2012-11-01,Closed with explanation,VERDADERO
+2012-09-11,ID_ISS_13,ID_COM_02,ID_ST_23,N-A,Referral,2012-09-12,Closed with explanation,VERDADERO

@@ -1,0 +1,33 @@
+id_issue,issues
+ID_ISS_00,Advertising and marketing
+ID_ISS_01,Application processing delay
+ID_ISS_02,APR or interest rate
+ID_ISS_03,Arbitration
+ID_ISS_04,Balance transfer
+ID_ISS_05,Balance transfer fee
+ID_ISS_06,Bankruptcy
+ID_ISS_07,Billing disputes
+ID_ISS_08,Billing statement
+ID_ISS_09,Cash advance
+ID_ISS_10,Cash advance fee
+ID_ISS_11,Closing-Cancelling account
+ID_ISS_12,Collection debt dispute
+ID_ISS_13,Collection practices
+ID_ISS_14,Credit card protection - Debt protection
+ID_ISS_15,Credit determination
+ID_ISS_16,Credit line increase-decrease
+ID_ISS_17,Credit reporting
+ID_ISS_18,Customer service - Customer relations
+ID_ISS_19,Delinquent account
+ID_ISS_20,Forbearance - Workout plans
+ID_ISS_21,Identity theft - Fraud - Embezzlement
+ID_ISS_22,Late fee
+ID_ISS_23,Other
+ID_ISS_24,Other fee
+ID_ISS_25,Overlimit fee
+ID_ISS_26,Payoff process
+ID_ISS_27,Privacy
+ID_ISS_28,Rewards
+ID_ISS_29,Sale of account
+ID_ISS_30,Transaction issue
+ID_ISS_31,Unsolicited issuance of credit card
