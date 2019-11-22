@@ -2,3 +2,4 @@
 0.9   Se colocaron en el github las imagene para el jupyter notebook
 0.10  Se agregra el README.txt
 0.11  Modificación de nomenclatura para función UDF
+0.12  Se separo el documento para crear niveles de datalake

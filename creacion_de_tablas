@@ -1,8 +1,8 @@
 Creacion de tablas
 
-issues
-id_issue
-issues
+#issues
+#id_issue
+#issues
 
 beeline -u jdbc:hive2://10.128.0.9:10000/
 create database trabajo4;
@@ -22,9 +22,9 @@ tblproperties("skip.header.line.count" = "1");
 
 
 
-company
-id_company
-company_name
+#company
+#id_company
+#company_name
 
 
 use trabajo4;
@@ -44,10 +44,10 @@ tblproperties("skip.header.line.count" = "1");
 
 
 
-State
-id_state
-state
-id_state_state
+#State
+#id_state
+#state
+#id_state_state
 
 use trabajo4;
 CREATE EXTERNAL TABLE IF NOT EXISTS trabajo4.state(
@@ -65,21 +65,18 @@ tblproperties("skip.header.line.count" = "1");
 
 
 
-Complaints
-date_received
-id_issue
-id_company
-id_state
-consumer_consent_provided
-submitted_via
-date_sent_to_company
-company_response_to_consumer
-timely_response
+#Complaints
+#date_received
+#id_issue
+#id_company
+#id_state
+#consumer_consent_provided
+#submitted_via
+#date_sent_to_company
+#company_response_to_consumer
+#timely_response
 
 
-Fecha date,
-IdProducto string,
-Unidades integer
 
 use trabajo4;
 CREATE EXTERNAL TABLE IF NOT EXISTS trabajo4.complaints(
@@ -101,28 +98,6 @@ STORED AS TEXTFILE
 LOCATION '/carpeta4/complaints'
 tblproperties("skip.header.line.count" = "1");
 
-
-
-
-**********************
-
-#PRIMERO LO COLOCAMOS EN EL DATALAKE
-
-
-hdfs dfs -mkdir /todaladata/
-
-hdfs dfs -put state.csv /todaladata/
-hdfs dfs -put company.csv /todaladata/
-hdfs dfs -put issues.csv /todaladata/
-hdfs dfs -put complaints.csv /todaladata/
-
-
-# DATALAKE NIVEL 2
-
-hdfs dfs -cp /todaladata/state.csv /carpeta4/state/
-hdfs dfs -cp /todaladata/company.csv /carpeta4/company/
-hdfs dfs -cp /todaladata/issues.csv /carpeta4/issues/
-hdfs dfs -cp /todaladata/complaints.csv /carpeta4/complaints/
 
 
 ***********************
