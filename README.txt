@@ -6,4 +6,5 @@
 0.13  Se agrega los archivos .csv que ingresaran al cluster
 0.14  Se creo carpeta especifica para los scripts
 0.15  Se creo carpeta especifica para los scripts
+0.16  Actualización del jupyter notebook
 
