@@ -1,0 +1,57 @@
+subir las tablas en spark
+
+
+spark-shell
+
+
+import org.apache.spark.sql.types._
+
+
+trabajo4.issues
+trabajo4.company
+trabajo4.state
+trabajo4.complaints
+trabajo4.tabla_particion_estatica
+
+
+spark.sql("""SELECT * from trabajo4.state""").show()
+
+spark.sql("""SELECT * from trabajo4.issues""").show()
+
+spark.sql("""SELECT * from trabajo4.complaints""").show()
+
+spark.sql("""SELECT * from trabajo4.company""").show()
+
+
+
+val df_state = spark.read.table("trabajo4.state")
+df_state.show() 
+df_state.printSchema() 
+
+val df_issues = spark.read.table("trabajo4.issues")
+df_issues.show() 
+df_issues.printSchema() 
+
+val df_complaints = spark.read.table("trabajo4.complaints")
+df_complaints.show() 
+df_complaints.printSchema() 
+
+val df_company = spark.read.table("trabajo4.company")
+df_company.show() 
+df_company.printSchema() 
+
+
+val df_tablon =df_complaints.as("cot").join(df_issues.as("iss"),"id_issue").join(df_state.as("sta"),"id_state").join(df_company.as("coy"),"id_company").select("cot.date_received","iss.issues","coy.company_name","sta.state","cot.consumer_consent_provided","cot.submitted_via","cot.date_sent_to_company","cot.company_response_to_consumer","cot.timely_response")
+
+
+df_tablon.show()
+df_tablon.printSchema() 
+
+
+
+df_tablon.write.format("parquet").save("/carpeta4/tablon/")
+
+
+df_tablon.createOrReplaceTempView("tablon");
+
+spark.sql("create table if not exists trabajo4.tablon as select * from tablon");

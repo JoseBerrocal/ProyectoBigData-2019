@@ -4,3 +4,6 @@
 0.11  Modificación de nomenclatura para función UDF
 0.12  Se separo el documento para crear niveles de datalake
 0.13  Se agrega los archivos .csv que ingresaran al cluster
+0.14  Se creo carpeta especifica para los scripts
+0.15  Se creo carpeta especifica para los scripts
+
