@@ -7,4 +7,5 @@
 0.14  Se creo carpeta especifica para los scripts
 0.15  Se creo carpeta especifica para los scripts
 0.16  Actualización del jupyter notebook
+0.17  Agregar mas imagenes y cambiar el nombre de la carpeta que los contiene
 
