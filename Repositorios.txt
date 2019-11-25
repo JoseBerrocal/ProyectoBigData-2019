@@ -2,3 +2,4 @@ Artículo en Medium: https://medium.com/p/a0e7680d7aaa/edit
 Presentación en https://kyso.io/: https://kyso.io/create/post/JoseBerrocal/final-work-big-data-complainipynb
 Repositorio GitHub:  https://github.com/BigDataCTIC/p11-grupo4
 Tablero del proyecto: https://github.com/orgs/BigDataCTIC/projects/34
+
